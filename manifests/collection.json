@@ -17,5 +17,9 @@
       "en" : [ "Blank Manifest" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://tommyaghs.github.io/img-container/manifests/manif.json",
+    "label" : "[Click to edit label]"
   } ]
 }
