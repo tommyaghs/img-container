@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 74,
+    "height" : 128
+  }, {
+    "width" : 147,
+    "height" : 256
+  }, {
+    "width" : 293,
+    "height" : 512
+  }, {
+    "width" : 585,
+    "height" : 1024
+  }, {
+    "width" : 1170,
+    "height" : 2048
+  }, {
+    "width" : 2340,
+    "height" : 4096
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2340,
+  "@id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_xray",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4096
+}
