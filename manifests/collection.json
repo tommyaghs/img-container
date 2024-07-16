@@ -1,0 +1,15 @@
+{
+  "id" : "https://tommyaghs.github.io/img-container/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in tommyaghs/img-container project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://tommyaghs.github.io/img-container/manifests/trtr.json",
+    "label" : {
+      "en" : [ "Blank Manifest" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
