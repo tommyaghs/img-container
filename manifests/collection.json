@@ -21,5 +21,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://tommyaghs.github.io/img-container/manifests/manif.json",
     "label" : "[Click to edit label]"
+  }, {
+    "id" : "https://tommyaghs.github.io/img-container/manifests/test11.json",
+    "label" : {
+      "en" : [ "Blank Manifest" ]
+    },
+    "type" : "Manifest"
   } ]
 }
