@@ -1,0 +1,46 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tommyaghs.github.io/img-container/manifests/manisf.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/2e20686a-e2d8-4208-88d7-4f3daa69f95f/canvas/7d2ab050-2e98-4d87-b84d-fd743aedd910",
+    "type" : "Canvas",
+    "height" : 800,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "Untitled canvas" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/2e20686a-e2d8-4208-88d7-4f3daa69f95f/canvas/7d2ab050-2e98-4d87-b84d-fd743aedd910/annotation-page/5d631d21-271f-498f-bbc8-9143cb3f3e7b",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/2e20686a-e2d8-4208-88d7-4f3daa69f95f/canvas/7d2ab050-2e98-4d87-b84d-fd743aedd910/annotation-page/5d631d21-271f-498f-bbc8-9143cb3f3e7b/annotation/9577a3cc-c57b-4bbe-8302-6ff94b6384f8",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/2e20686a-e2d8-4208-88d7-4f3daa69f95f/canvas/7d2ab050-2e98-4d87-b84d-fd743aedd910",
+        "body" : {
+          "id" : "https://www.leonardodavincischool.org/sites/main/files/imagecache/lightbox/main-images/camera_lense_0.jpeg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 800,
+          "width" : 1200
+        }
+      }, {
+        "id" : "https://example.org/2e20686a-e2d8-4208-88d7-4f3daa69f95f/canvas/7d2ab050-2e98-4d87-b84d-fd743aedd910/annotation-page/5d631d21-271f-498f-bbc8-9143cb3f3e7b/annotation/7fcddd6e-c671-4abd-8d59-ebf19894fd8c",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/2e20686a-e2d8-4208-88d7-4f3daa69f95f/canvas/7d2ab050-2e98-4d87-b84d-fd743aedd910#xywh=449,298,332,190",
+        "body" : {
+          "id" : "https://img.freepik.com/free-photo/abstract-autumn-beauty-multi-colored-leaf-vein-pattern-generated-by-ai_188544-9871.jpg?t=st=1721130954~exp=1721134554~hmac=8adcf74929e0ef9101bf43d46877ba6029fbbd9827c03a5e2bcac1d4f34e243b&w=1380",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 789,
+          "width" : 1380
+        }
+      } ]
+    } ]
+  } ]
+}
