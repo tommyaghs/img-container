@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 78,
+    "height" : 54
+  }, {
+    "width" : 156,
+    "height" : 108
+  }, {
+    "width" : 311,
+    "height" : 215
+  }, {
+    "width" : 621,
+    "height" : 430
+  }, {
+    "width" : 1241,
+    "height" : 859
+  }, {
+    "width" : 2482,
+    "height" : 1718
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2482,
+  "@id" : "https://tommyaghs.github.io/img-container/images/sss",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1718
+}
