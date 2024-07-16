@@ -1,0 +1,230 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tommyaghs.github.io/img-container/manifests/trtr.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579",
+    "type" : "Canvas",
+    "height" : 2410,
+    "width" : 5284,
+    "label" : {
+      "en" : [ "Untitled canvas" ]
+    },
+    "summary" : {
+      "en" : [ "" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579/annotation-page/60143660-0c22-475a-8395-7b3b5d658262",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/annotation/f2e1e117-482f-47f9-bd8a-28121cf2b93e",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579",
+        "label" : {
+          "en" : [ "" ]
+        },
+        "body" : {
+          "id" : "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2410,
+          "width" : 5284,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 5284,
+            "height" : 2410,
+            "sizes" : [ {
+              "width" : 165,
+              "height" : 75
+            }, {
+              "width" : 330,
+              "height" : 150
+            }, {
+              "width" : 660,
+              "height" : 301
+            }, {
+              "width" : 1321,
+              "height" : 602
+            }, {
+              "width" : 2642,
+              "height" : 1205
+            } ],
+            "tiles" : [ {
+              "width" : 256,
+              "height" : 256,
+              "scaleFactors" : [ 1, 2, 4, 8, 16, 32 ]
+            } ],
+            "@id" : "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "png", "webp" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 20000,
+              "maxHeight" : 20000
+            } ],
+            "service" : [ {
+              "@context" : "http://iiif.io/api/annex/services/physdim/1/context.json",
+              "profile" : "http://iiif.io/api/annex/services/physdim",
+              "physicalScale" : 0.00846667,
+              "physicalUnits" : "cm"
+            } ],
+            "id" : "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx"
+          } ]
+        }
+      }, {
+        "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579/annotation-page/60143660-0c22-475a-8395-7b3b5d658262/annotation/1de83847-a239-4f85-8aff-d0dabeca0d6c",
+        "type" : "Annotation",
+        "label" : {
+          "en" : [ "23131" ]
+        },
+        "thumbnail" : [ {
+          "id" : "https://stacks.stanford.edu/image/iiif/hg676jb4964%2F0380_796-44/info.json",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 233,
+          "width" : 233
+        } ],
+        "summary" : {
+          "en" : [ "asddsadsa" ]
+        },
+        "motivation" : "painting",
+        "target" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579#xywh=136,151,1293,910",
+        "body" : {
+          "id" : "https://stacks.stanford.edu/image/iiif/hg676jb4964/0380_796-44/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3820,
+          "width" : 5426,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://stacks.stanford.edu/image/iiif/hg676jb4964/0380_796-44",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 5426,
+            "height" : 3820,
+            "sizes" : [ {
+              "width" : 170,
+              "height" : 119
+            }, {
+              "width" : 339,
+              "height" : 239
+            }, {
+              "width" : 678,
+              "height" : 478
+            }, {
+              "width" : 1357,
+              "height" : 955
+            }, {
+              "width" : 2713,
+              "height" : 1910
+            }, {
+              "width" : 5426,
+              "height" : 3820
+            }, {
+              "width" : 5426,
+              "height" : 3820
+            } ],
+            "tiles" : [ {
+              "width" : 1024,
+              "height" : 1024,
+              "scaleFactors" : [ 1, 2, 4, 8, 16, 32 ]
+            } ],
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ],
+            "id" : "https://stacks.stanford.edu/image/iiif/hg676jb4964/0380_796-44"
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579/annotations/e2a09042-ea9a-46ed-bd63-b75ff5f48a5c",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579/annotations/e2a09042-ea9a-46ed-bd63-b75ff5f48a5c/annotation/a60c787b-d2fc-4b0f-a50a-7ad067ac3527",
+        "type" : "Annotation",
+        "label" : {
+          "en" : [ "rtrttrt" ]
+        },
+        "summary" : {
+          "en" : [ "fdgfdgfdg" ]
+        },
+        "motivation" : "describing",
+        "rights" : "http://creativecommons.org/publicdomain/zero/1.0/",
+        "target" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579#xywh=3965,283,593,390",
+        "body" : {
+          "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579/annotations/e2a09042-ea9a-46ed-bd63-b75ff5f48a5c/annotation/a60c787b-d2fc-4b0f-a50a-7ad067ac3527/html/en/80fde7c6-8873-462a-a6ec-d996cccb1e07",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "dfdffd",
+          "textGranularity" : "word"
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/8ed69ed9-4b16-474e-a411-705cd4896543",
+    "type" : "Canvas",
+    "height" : 3820,
+    "width" : 5426,
+    "behavior" : [ "facing-pages", "auto-advance" ],
+    "label" : {
+      "en" : [ "Untitled canvas" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/8ed69ed9-4b16-474e-a411-705cd4896543/annotation-page/9f83d962-f279-4173-aabc-f79c139b180d",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/annotation/1e47c5ed-d4af-44b0-9159-3fe8e7a147f9",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/8ed69ed9-4b16-474e-a411-705cd4896543",
+        "body" : {
+          "id" : "https://stacks.stanford.edu/image/iiif/hg676jb4964/0380_796-44/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3820,
+          "width" : 5426,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://stacks.stanford.edu/image/iiif/hg676jb4964/0380_796-44",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 5426,
+            "height" : 3820,
+            "sizes" : [ {
+              "width" : 170,
+              "height" : 119
+            }, {
+              "width" : 339,
+              "height" : 239
+            }, {
+              "width" : 678,
+              "height" : 478
+            }, {
+              "width" : 1357,
+              "height" : 955
+            }, {
+              "width" : 2713,
+              "height" : 1910
+            }, {
+              "width" : 5426,
+              "height" : 3820
+            }, {
+              "width" : 5426,
+              "height" : 3820
+            } ],
+            "tiles" : [ {
+              "width" : 1024,
+              "height" : 1024,
+              "scaleFactors" : [ 1, 2, 4, 8, 16, 32 ]
+            } ],
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ],
+            "id" : "https://stacks.stanford.edu/image/iiif/hg676jb4964/0380_796-44"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
