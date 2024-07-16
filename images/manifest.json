@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 2482,
+    "id" : "https://tommyaghs.github.io/img-container/images/sss/canvas/",
+    "label" : {
+      "none" : [ "sss" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://tommyaghs.github.io/img-container/images/sss/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://tommyaghs.github.io/img-container/images/sss/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 78,
+              "height" : 54
+            }, {
+              "width" : 156,
+              "height" : 108
+            }, {
+              "width" : 311,
+              "height" : 215
+            }, {
+              "width" : 621,
+              "height" : 430
+            }, {
+              "width" : 1241,
+              "height" : 859
+            }, {
+              "width" : 2482,
+              "height" : 1718
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2482,
+            "@id" : "https://tommyaghs.github.io/img-container/images/sss",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1718
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2482,
+          "id" : "https://tommyaghs.github.io/img-container/images/sss/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1718
+        },
+        "target" : "https://tommyaghs.github.io/img-container/images/sss/canvas/"
+      } ]
+    } ],
+    "height" : 1718
+  }, {
+    "width" : 2482,
     "id" : "https://tommyaghs.github.io/img-container/images/jpeg_43-2/canvas/",
     "label" : {
       "none" : [ "jpeg_43-2" ]
