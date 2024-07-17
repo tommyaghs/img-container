@@ -1,0 +1,116 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tommyaghs.github.io/img-container/manifests/layers.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/b222cbf7-9028-475f-9df0-724bea5a0504",
+    "type" : "Canvas",
+    "height" : 640,
+    "width" : 640,
+    "label" : {
+      "en" : [ "Pittura donna" ]
+    },
+    "summary" : {
+      "en" : [ "" ]
+    },
+    "rights" : "http://creativecommons.org/publicdomain/zero/1.0/",
+    "items" : [ {
+      "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/b222cbf7-9028-475f-9df0-724bea5a0504/annotation-page/5be7222e-cd9d-4b68-8c8a-88dc1acf14fd",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/annotation/a2bff02e-975c-4f41-9707-8f7ef867bed2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/b222cbf7-9028-475f-9df0-724bea5a0504",
+        "body" : {
+          "id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 640,
+          "width" : 640,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 20,
+              "height" : 20
+            }, {
+              "width" : 40,
+              "height" : 40
+            }, {
+              "width" : 80,
+              "height" : 80
+            }, {
+              "width" : 160,
+              "height" : 160
+            }, {
+              "width" : 320,
+              "height" : 320
+            }, {
+              "width" : 640,
+              "height" : 640
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 640,
+            "@id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 640,
+            "id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640"
+          } ]
+        }
+      }, {
+        "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/b222cbf7-9028-475f-9df0-724bea5a0504/annotation-page/5be7222e-cd9d-4b68-8c8a-88dc1acf14fd/annotation/039f61ac-0d9d-4559-a337-29eef7de14e6",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/b222cbf7-9028-475f-9df0-724bea5a0504#xywh=309,93,325,224",
+        "body" : {
+          "id" : "https://tommyaghs.github.io/img-container/images/sss/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1718,
+          "width" : 2482,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 78,
+              "height" : 54
+            }, {
+              "width" : 156,
+              "height" : 108
+            }, {
+              "width" : 311,
+              "height" : 215
+            }, {
+              "width" : 621,
+              "height" : 430
+            }, {
+              "width" : 1241,
+              "height" : 859
+            }, {
+              "width" : 2482,
+              "height" : 1718
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2482,
+            "@id" : "https://tommyaghs.github.io/img-container/images/sss",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1718,
+            "id" : "https://tommyaghs.github.io/img-container/images/sss"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
