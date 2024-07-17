@@ -1,0 +1,239 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tommyaghs.github.io/img-container/manifests/man3.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/b222cbf7-9028-475f-9df0-724bea5a0504",
+    "type" : "Canvas",
+    "height" : 640,
+    "width" : 640,
+    "label" : {
+      "en" : [ "Pittura donna" ]
+    },
+    "summary" : {
+      "en" : [ "" ]
+    },
+    "rights" : "http://creativecommons.org/publicdomain/zero/1.0/",
+    "items" : [ {
+      "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/b222cbf7-9028-475f-9df0-724bea5a0504/annotation-page/5be7222e-cd9d-4b68-8c8a-88dc1acf14fd",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/b222cbf7-9028-475f-9df0-724bea5a0504/annotation-page/5be7222e-cd9d-4b68-8c8a-88dc1acf14fd/annotation/039f61ac-0d9d-4559-a337-29eef7de14e6",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/b222cbf7-9028-475f-9df0-724bea5a0504#xywh=35,128,187,129",
+        "body" : {
+          "id" : "https://tommyaghs.github.io/img-container/images/sss/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1718,
+          "width" : 2482,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 78,
+              "height" : 54
+            }, {
+              "width" : 156,
+              "height" : 108
+            }, {
+              "width" : 311,
+              "height" : 215
+            }, {
+              "width" : 621,
+              "height" : 430
+            }, {
+              "width" : 1241,
+              "height" : 859
+            }, {
+              "width" : 2482,
+              "height" : 1718
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2482,
+            "@id" : "https://tommyaghs.github.io/img-container/images/sss",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1718,
+            "id" : "https://tommyaghs.github.io/img-container/images/sss"
+          } ]
+        }
+      }, {
+        "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/annotation/a2bff02e-975c-4f41-9707-8f7ef867bed2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/b222cbf7-9028-475f-9df0-724bea5a0504",
+        "body" : {
+          "id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 640,
+          "width" : 640,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 20,
+              "height" : 20
+            }, {
+              "width" : 40,
+              "height" : 40
+            }, {
+              "width" : 80,
+              "height" : 80
+            }, {
+              "width" : 160,
+              "height" : 160
+            }, {
+              "width" : 320,
+              "height" : 320
+            }, {
+              "width" : 640,
+              "height" : 640
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 640,
+            "@id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 640,
+            "id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/139a6d75-156b-4394-9c9f-491962e42ced",
+    "type" : "Canvas",
+    "height" : 2410,
+    "width" : 5284,
+    "label" : {
+      "en" : [ "Untitled canvas" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/139a6d75-156b-4394-9c9f-491962e42ced/annotation-page/77a08d6d-daf5-459a-8287-f8490ca3aa64",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/annotation/6e3fdb04-f864-4c5d-bdcd-698c36fbab17",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/139a6d75-156b-4394-9c9f-491962e42ced",
+        "body" : {
+          "id" : "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2410,
+          "width" : 5284,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 5284,
+            "height" : 2410,
+            "sizes" : [ {
+              "width" : 165,
+              "height" : 75
+            }, {
+              "width" : 330,
+              "height" : 150
+            }, {
+              "width" : 660,
+              "height" : 301
+            }, {
+              "width" : 1321,
+              "height" : 602
+            }, {
+              "width" : 2642,
+              "height" : 1205
+            } ],
+            "tiles" : [ {
+              "width" : 256,
+              "height" : 256,
+              "scaleFactors" : [ 1, 2, 4, 8, 16, 32 ]
+            } ],
+            "@id" : "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "png", "webp" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 20000,
+              "maxHeight" : 20000
+            } ],
+            "service" : [ {
+              "@context" : "http://iiif.io/api/annex/services/physdim/1/context.json",
+              "profile" : "http://iiif.io/api/annex/services/physdim",
+              "physicalScale" : 0.00846667,
+              "physicalUnits" : "cm"
+            } ],
+            "id" : "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/9c0715b7-4b2f-406d-8d41-4516d52f2d05",
+    "type" : "Canvas",
+    "height" : 750,
+    "width" : 563,
+    "label" : {
+      "en" : [ "Untitled canvas" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/9c0715b7-4b2f-406d-8d41-4516d52f2d05/annotation-page/728a2f9e-3353-4660-946f-68eaf054870f",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/annotation/82c998b1-02e3-4bdf-a3cd-83e37c4f84c2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/153e76e2-9e95-4b11-815a-861645b1430b/canvas/9c0715b7-4b2f-406d-8d41-4516d52f2d05",
+        "body" : {
+          "id" : "https://images.pexels.com/photos/3246665/pexels-photo-3246665.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 750,
+          "width" : 563
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e58b8c60-005c-4c41-a22f-07d49cb25ede.json",
+    "type" : "Canvas",
+    "height" : 8158,
+    "width" : 5392,
+    "label" : {
+      "none" : [ "[f. 1 Krishna and his lover Radha seated face-to-face]" ]
+    },
+    "items" : [ {
+      "id" : "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e58b8c60-005c-4c41-a22f-07d49cb25ede.json/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.bodleian.ox.ac.uk/iiif/annotation/e58b8c60-005c-4c41-a22f-07d49cb25ede.json",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e58b8c60-005c-4c41-a22f-07d49cb25ede.json",
+        "body" : {
+          "id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/e58b8c60-005c-4c41-a22f-07d49cb25ede",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 8158,
+          "width" : 5392,
+          "service" : [ {
+            "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/e58b8c60-005c-4c41-a22f-07d49cb25ede",
+            "@type" : "ImageService2",
+            "profile" : "level2",
+            "id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/e58b8c60-005c-4c41-a22f-07d49cb25ede"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
