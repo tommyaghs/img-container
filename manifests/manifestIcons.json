@@ -1,0 +1,67 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tommyaghs.github.io/img-container/manifests/manifestIcons.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/lirx9d0h14i-lz2f15ev/canvas/suoi1zyset-lz2f19ln",
+    "type" : "Canvas",
+    "height" : 1333,
+    "width" : 2000,
+    "label" : {
+      "en" : [ "movida" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/lirx9d0h14i-lz2f15ev/canvas/suoi1zyset-lz2f19ln/annotation-page/rxo92stom8-lz2f19lo",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/lirx9d0h14i-lz2f15ev/annotation/apsmho37hpk-lz2f19lm",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/lirx9d0h14i-lz2f15ev/canvas/suoi1zyset-lz2f19ln",
+        "body" : {
+          "id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1333,
+          "width" : 2000,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 63,
+              "height" : 42
+            }, {
+              "width" : 125,
+              "height" : 84
+            }, {
+              "width" : 250,
+              "height" : 167
+            }, {
+              "width" : 500,
+              "height" : 334
+            }, {
+              "width" : 1000,
+              "height" : 667
+            }, {
+              "width" : 2000,
+              "height" : 1333
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2000,
+            "@id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1333,
+            "id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
