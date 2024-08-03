@@ -1,0 +1,54 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://tommyaghs.github.io/img-container/manifests/2323.json",
+  "@type" : "sc:Manifest",
+  "label" : "test1",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "aA",
+  "sequences" : [ {
+    "@id" : "http://930014aa-2b64-4085-bcf8-c736f899ccfa",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://61814e92-6186-436c-8737-e8df22351cd9",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 14823,
+      "width" : 16897,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c9ba4efd-9eec-4d44-a4b9-ef1cac565613",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/2/Project_2%2Fdezoomify-result.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://localhost:8182/iiif/2/Project_2%2Fdezoomify-result.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 10000000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 14823,
+          "width" : 16897
+        },
+        "on" : "http://61814e92-6186-436c-8737-e8df22351cd9"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
