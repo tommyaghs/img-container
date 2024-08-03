@@ -61,5 +61,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://tommyaghs.github.io/img-container/manifests/2323.json",
     "label" : "test1"
+  }, {
+    "id" : "https://tommyaghs.github.io/img-container/manifests/fgfhfg.json",
+    "label" : {
+      "en" : [ "Blank Manifest" ]
+    },
+    "type" : "Manifest"
   } ]
 }
