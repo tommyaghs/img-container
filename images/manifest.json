@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 7533,
+    "id" : "https://tommyaghs.github.io/img-container/images/bonaparte/canvas/",
+    "label" : {
+      "none" : [ "bonaparte" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://tommyaghs.github.io/img-container/images/bonaparte/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://tommyaghs.github.io/img-container/images/bonaparte/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 236,
+              "height" : 313
+            }, {
+              "width" : 471,
+              "height" : 625
+            }, {
+              "width" : 942,
+              "height" : 1250
+            }, {
+              "width" : 1884,
+              "height" : 2500
+            }, {
+              "width" : 3767,
+              "height" : 5000
+            }, {
+              "width" : 7533,
+              "height" : 10000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 7533,
+            "@id" : "https://tommyaghs.github.io/img-container/images/bonaparte",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 10000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 7533,
+          "id" : "https://tommyaghs.github.io/img-container/images/bonaparte/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 10000
+        },
+        "target" : "https://tommyaghs.github.io/img-container/images/bonaparte/canvas/"
+      } ]
+    } ],
+    "height" : 10000
+  }, {
     "width" : 2000,
     "id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/canvas/",
     "label" : {
