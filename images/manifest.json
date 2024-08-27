@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2560,
+    "id" : "https://tommyaghs.github.io/img-container/images/goku/canvas/",
+    "label" : {
+      "none" : [ "goku" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://tommyaghs.github.io/img-container/images/goku/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://tommyaghs.github.io/img-container/images/goku/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 80,
+              "height" : 50
+            }, {
+              "width" : 160,
+              "height" : 100
+            }, {
+              "width" : 320,
+              "height" : 200
+            }, {
+              "width" : 640,
+              "height" : 400
+            }, {
+              "width" : 1280,
+              "height" : 800
+            }, {
+              "width" : 2560,
+              "height" : 1600
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2560,
+            "@id" : "https://tommyaghs.github.io/img-container/images/goku",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1600
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2560,
+          "id" : "https://tommyaghs.github.io/img-container/images/goku/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1600
+        },
+        "target" : "https://tommyaghs.github.io/img-container/images/goku/canvas/"
+      } ]
+    } ],
+    "height" : 1600
+  }, {
     "width" : 7533,
     "id" : "https://tommyaghs.github.io/img-container/images/bonaparte/canvas/",
     "label" : {
