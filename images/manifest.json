@@ -1,638 +1,822 @@
 {
-  "id" : "https://tommyaghs.github.io/img-container/images/manifest.json",
-  "label" : {
-    "en" : [ "All images loaded in tommyaghs/img-container project" ]
-  },
-  "type" : "Manifest",
-  "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "width" : 2560,
-    "id" : "https://tommyaghs.github.io/img-container/images/goku/canvas/",
-    "label" : {
-      "none" : [ "goku" ]
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tommyaghs.github.io/img-container/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in tommyaghs/img-container project"
+        ]
     },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/goku/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/goku/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 80,
-              "height" : 50
-            }, {
-              "width" : 160,
-              "height" : 100
-            }, {
-              "width" : 320,
-              "height" : 200
-            }, {
-              "width" : 640,
-              "height" : 400
-            }, {
-              "width" : 1280,
-              "height" : 800
-            }, {
-              "width" : 2560,
-              "height" : 1600
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 2560,
-            "@id" : "https://tommyaghs.github.io/img-container/images/goku",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 1600
-          } ],
-          "format" : "image/jpeg",
-          "width" : 2560,
-          "id" : "https://tommyaghs.github.io/img-container/images/goku/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 1600
+    "items": [
+        {
+            "id": "https://tommyaghs.github.io/img-container/images/bonaparte/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bonaparte"
+                ]
+            },
+            "height": 10000,
+            "width": 7533,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/bonaparte/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/bonaparte/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/bonaparte/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 236,
+                                                "height": 313
+                                            },
+                                            {
+                                                "width": 471,
+                                                "height": 625
+                                            },
+                                            {
+                                                "width": 942,
+                                                "height": 1250
+                                            },
+                                            {
+                                                "width": 1884,
+                                                "height": 2500
+                                            },
+                                            {
+                                                "width": 3767,
+                                                "height": 5000
+                                            },
+                                            {
+                                                "width": 7533,
+                                                "height": 10000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 7533,
+                                        "@id": "https://tommyaghs.github.io/img-container/images/bonaparte",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 10000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/bonaparte/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://tommyaghs.github.io/img-container/images/goku/canvas/"
-      } ]
-    } ],
-    "height" : 1600
-  }, {
-    "width" : 7533,
-    "id" : "https://tommyaghs.github.io/img-container/images/bonaparte/canvas/",
-    "label" : {
-      "none" : [ "bonaparte" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/bonaparte/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/bonaparte/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 236,
-              "height" : 313
-            }, {
-              "width" : 471,
-              "height" : 625
-            }, {
-              "width" : 942,
-              "height" : 1250
-            }, {
-              "width" : 1884,
-              "height" : 2500
-            }, {
-              "width" : 3767,
-              "height" : 5000
-            }, {
-              "width" : 7533,
-              "height" : 10000
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 7533,
-            "@id" : "https://tommyaghs.github.io/img-container/images/bonaparte",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 10000
-          } ],
-          "format" : "image/jpeg",
-          "width" : 7533,
-          "id" : "https://tommyaghs.github.io/img-container/images/bonaparte/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 10000
+        {
+            "id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "BUB_Ms4093-13r"
+                ]
+            },
+            "height": 1333,
+            "width": 2000,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 63,
+                                                "height": 42
+                                            },
+                                            {
+                                                "width": 125,
+                                                "height": 84
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 167
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 334
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 667
+                                            },
+                                            {
+                                                "width": 2000,
+                                                "height": 1333
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2000,
+                                        "@id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1333,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://tommyaghs.github.io/img-container/images/bonaparte/canvas/"
-      } ]
-    } ],
-    "height" : 10000
-  }, {
-    "width" : 2000,
-    "id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/canvas/",
-    "label" : {
-      "none" : [ "BUB_Ms4093-13r" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 63,
-              "height" : 42
-            }, {
-              "width" : 125,
-              "height" : 84
-            }, {
-              "width" : 250,
-              "height" : 167
-            }, {
-              "width" : 500,
-              "height" : 334
-            }, {
-              "width" : 1000,
-              "height" : 667
-            }, {
-              "width" : 2000,
-              "height" : 1333
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 2000,
-            "@id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 1333
-          } ],
-          "format" : "image/jpeg",
-          "width" : 2000,
-          "id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 1333
+        {
+            "id": "https://tommyaghs.github.io/img-container/images/sss/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "sss"
+                ]
+            },
+            "height": 1718,
+            "width": 2482,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/sss/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/sss/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/sss/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 78,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 108
+                                            },
+                                            {
+                                                "width": 311,
+                                                "height": 215
+                                            },
+                                            {
+                                                "width": 621,
+                                                "height": 430
+                                            },
+                                            {
+                                                "width": 1241,
+                                                "height": 859
+                                            },
+                                            {
+                                                "width": 2482,
+                                                "height": 1718
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2482,
+                                        "@id": "https://tommyaghs.github.io/img-container/images/sss",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1718,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/sss/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-13r/canvas/"
-      } ]
-    } ],
-    "height" : 1333
-  }, {
-    "width" : 640,
-    "id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640/canvas/",
-    "label" : {
-      "none" : [ "girl-2696947_640" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 20,
-              "height" : 20
-            }, {
-              "width" : 40,
-              "height" : 40
-            }, {
-              "width" : 80,
-              "height" : 80
-            }, {
-              "width" : 160,
-              "height" : 160
-            }, {
-              "width" : 320,
-              "height" : 320
-            }, {
-              "width" : 640,
-              "height" : 640
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 640,
-            "@id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 640
-          } ],
-          "format" : "image/jpeg",
-          "width" : 640,
-          "id" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 640
+        {
+            "id": "https://tommyaghs.github.io/img-container/images/girl-2696947_640/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "girl-2696947_640"
+                ]
+            },
+            "height": 640,
+            "width": 640,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/girl-2696947_640/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/girl-2696947_640/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/girl-2696947_640/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 20
+                                            },
+                                            {
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 80
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 160
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 320
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 640
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 640,
+                                        "@id": "https://tommyaghs.github.io/img-container/images/girl-2696947_640",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 640,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/girl-2696947_640/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://tommyaghs.github.io/img-container/images/girl-2696947_640/canvas/"
-      } ]
-    } ],
-    "height" : 640
-  }, {
-    "width" : 2340,
-    "id" : "https://tommyaghs.github.io/img-container/images/Fotora_xray/canvas/",
-    "label" : {
-      "none" : [ "Fotora_xray" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/Fotora_xray/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/Fotora_xray/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 74,
-              "height" : 128
-            }, {
-              "width" : 147,
-              "height" : 256
-            }, {
-              "width" : 293,
-              "height" : 512
-            }, {
-              "width" : 585,
-              "height" : 1024
-            }, {
-              "width" : 1170,
-              "height" : 2048
-            }, {
-              "width" : 2340,
-              "height" : 4096
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 2340,
-            "@id" : "https://tommyaghs.github.io/img-container/images/Fotora_xray",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 4096
-          } ],
-          "format" : "image/jpeg",
-          "width" : 2340,
-          "id" : "https://tommyaghs.github.io/img-container/images/Fotora_xray/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 4096
+        {
+            "id": "https://tommyaghs.github.io/img-container/images/Fotora_xray/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Fotora_xray"
+                ]
+            },
+            "height": 4096,
+            "width": 2340,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/Fotora_xray/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/Fotora_xray/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/Fotora_xray/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 74,
+                                                "height": 128
+                                            },
+                                            {
+                                                "width": 147,
+                                                "height": 256
+                                            },
+                                            {
+                                                "width": 293,
+                                                "height": 512
+                                            },
+                                            {
+                                                "width": 585,
+                                                "height": 1024
+                                            },
+                                            {
+                                                "width": 1170,
+                                                "height": 2048
+                                            },
+                                            {
+                                                "width": 2340,
+                                                "height": 4096
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2340,
+                                        "@id": "https://tommyaghs.github.io/img-container/images/Fotora_xray",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4096,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/Fotora_xray/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://tommyaghs.github.io/img-container/images/Fotora_xray/canvas/"
-      } ]
-    } ],
-    "height" : 4096
-  }, {
-    "width" : 1497,
-    "id" : "https://tommyaghs.github.io/img-container/images/porzione_test_xray/canvas/",
-    "label" : {
-      "none" : [ "porzione_test_xray" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/porzione_test_xray/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/porzione_test_xray/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 47,
-              "height" : 41
-            }, {
-              "width" : 94,
-              "height" : 81
-            }, {
-              "width" : 188,
-              "height" : 161
-            }, {
-              "width" : 375,
-              "height" : 322
-            }, {
-              "width" : 749,
-              "height" : 643
-            }, {
-              "width" : 1497,
-              "height" : 1285
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 1497,
-            "@id" : "https://tommyaghs.github.io/img-container/images/porzione_test_xray",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 1285
-          } ],
-          "format" : "image/jpeg",
-          "width" : 1497,
-          "id" : "https://tommyaghs.github.io/img-container/images/porzione_test_xray/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 1285
+        {
+            "id": "https://tommyaghs.github.io/img-container/images/jpeg_43-2/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "jpeg_43-2"
+                ]
+            },
+            "height": 1718,
+            "width": 2482,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/jpeg_43-2/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/jpeg_43-2/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/jpeg_43-2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 78,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 108
+                                            },
+                                            {
+                                                "width": 311,
+                                                "height": 215
+                                            },
+                                            {
+                                                "width": 621,
+                                                "height": 430
+                                            },
+                                            {
+                                                "width": 1241,
+                                                "height": 859
+                                            },
+                                            {
+                                                "width": 2482,
+                                                "height": 1718
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 2482,
+                                        "id": "https://tommyaghs.github.io/img-container/images/jpeg_43-2",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1718
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/jpeg_43-2/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://tommyaghs.github.io/img-container/images/porzione_test_xray/canvas/"
-      } ]
-    } ],
-    "height" : 1285
-  }, {
-    "width" : 2340,
-    "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_xray/canvas/",
-    "label" : {
-      "none" : [ "enthroned_madonna_and_child_xray" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_xray/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_xray/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 74,
-              "height" : 128
-            }, {
-              "width" : 147,
-              "height" : 256
-            }, {
-              "width" : 293,
-              "height" : 512
-            }, {
-              "width" : 585,
-              "height" : 1024
-            }, {
-              "width" : 1170,
-              "height" : 2048
-            }, {
-              "width" : 2340,
-              "height" : 4096
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 2340,
-            "@id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_xray",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 4096
-          } ],
-          "format" : "image/jpeg",
-          "width" : 2340,
-          "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_xray/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 4096
+        {
+            "id": "https://tommyaghs.github.io/img-container/images/goku/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "goku"
+                ]
+            },
+            "height": 1600,
+            "width": 2560,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/goku/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/goku/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/goku/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 80,
+                                                "height": 50
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 100
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 200
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 400
+                                            },
+                                            {
+                                                "width": 1280,
+                                                "height": 800
+                                            },
+                                            {
+                                                "width": 2560,
+                                                "height": 1600
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2560,
+                                        "@id": "https://tommyaghs.github.io/img-container/images/goku",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1600,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/goku/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_xray/canvas/"
-      } ]
-    } ],
-    "height" : 4096
-  }, {
-    "width" : 2340,
-    "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/",
-    "label" : {
-      "none" : [ "enthroned_madonna_and_child_1949.7.1" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 74,
-              "height" : 128
-            }, {
-              "width" : 147,
-              "height" : 256
-            }, {
-              "width" : 293,
-              "height" : 512
-            }, {
-              "width" : 585,
-              "height" : 1024
-            }, {
-              "width" : 1170,
-              "height" : 2048
-            }, {
-              "width" : 2340,
-              "height" : 4096
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 2340,
-            "@id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 4096
-          } ],
-          "format" : "image/jpeg",
-          "width" : 2340,
-          "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 4096
+        {
+            "id": "https://tommyaghs.github.io/img-container/images/madonna-and-child/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "madonna-and-child"
+                ]
+            },
+            "height": 4096,
+            "width": 2340,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/madonna-and-child/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/madonna-and-child/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/madonna-and-child/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 74,
+                                                "height": 128
+                                            },
+                                            {
+                                                "width": 147,
+                                                "height": 256
+                                            },
+                                            {
+                                                "width": 293,
+                                                "height": 512
+                                            },
+                                            {
+                                                "width": 585,
+                                                "height": 1024
+                                            },
+                                            {
+                                                "width": 1170,
+                                                "height": 2048
+                                            },
+                                            {
+                                                "width": 2340,
+                                                "height": 4096
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 2340,
+                                        "id": "https://tommyaghs.github.io/img-container/images/madonna-and-child",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 4096
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/madonna-and-child/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/"
-      } ]
-    } ],
-    "height" : 4096
-  }, {
-    "width" : 2482,
-    "id" : "https://tommyaghs.github.io/img-container/images/sss/canvas/",
-    "label" : {
-      "none" : [ "sss" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/sss/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/sss/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 78,
-              "height" : 54
-            }, {
-              "width" : 156,
-              "height" : 108
-            }, {
-              "width" : 311,
-              "height" : 215
-            }, {
-              "width" : 621,
-              "height" : 430
-            }, {
-              "width" : 1241,
-              "height" : 859
-            }, {
-              "width" : 2482,
-              "height" : 1718
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 2482,
-            "@id" : "https://tommyaghs.github.io/img-container/images/sss",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 1718
-          } ],
-          "format" : "image/jpeg",
-          "width" : 2482,
-          "id" : "https://tommyaghs.github.io/img-container/images/sss/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 1718
+        {
+            "id": "https://tommyaghs.github.io/img-container/images/Fot/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Fot"
+                ]
+            },
+            "height": 4096,
+            "width": 2340,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/Fot/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/Fot/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/Fot/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 74,
+                                                "height": 128
+                                            },
+                                            {
+                                                "width": 147,
+                                                "height": 256
+                                            },
+                                            {
+                                                "width": 293,
+                                                "height": 512
+                                            },
+                                            {
+                                                "width": 585,
+                                                "height": 1024
+                                            },
+                                            {
+                                                "width": 1170,
+                                                "height": 2048
+                                            },
+                                            {
+                                                "width": 2340,
+                                                "height": 4096
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2340,
+                                        "@id": "https://tommyaghs.github.io/img-container/images/Fot",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4096,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/Fot/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://tommyaghs.github.io/img-container/images/sss/canvas/"
-      } ]
-    } ],
-    "height" : 1718
-  }, {
-    "width" : 2482,
-    "id" : "https://tommyaghs.github.io/img-container/images/jpeg_43-2/canvas/",
-    "label" : {
-      "none" : [ "jpeg_43-2" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/jpeg_43-2/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/jpeg_43-2/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 78,
-              "height" : 54
-            }, {
-              "width" : 156,
-              "height" : 108
-            }, {
-              "width" : 311,
-              "height" : 215
-            }, {
-              "width" : 621,
-              "height" : 430
-            }, {
-              "width" : 1241,
-              "height" : 859
-            }, {
-              "width" : 2482,
-              "height" : 1718
-            } ],
-            "profile" : "level0",
-            "width" : 2482,
-            "id" : "https://tommyaghs.github.io/img-container/images/jpeg_43-2",
-            "type" : "ImageService3",
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "height" : 1718
-          } ],
-          "format" : "image/jpeg",
-          "width" : 2482,
-          "id" : "https://tommyaghs.github.io/img-container/images/jpeg_43-2/full/max/0/default.jpg",
-          "type" : "Image",
-          "height" : 1718
-        },
-        "target" : "https://tommyaghs.github.io/img-container/images/jpeg_43-2/canvas/"
-      } ]
-    } ],
-    "height" : 1718
-  }, {
-    "width" : 2340,
-    "id" : "https://tommyaghs.github.io/img-container/images/madonna-and-child/canvas/",
-    "label" : {
-      "none" : [ "madonna-and-child" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/madonna-and-child/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://tommyaghs.github.io/img-container/images/madonna-and-child/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 74,
-              "height" : 128
-            }, {
-              "width" : 147,
-              "height" : 256
-            }, {
-              "width" : 293,
-              "height" : 512
-            }, {
-              "width" : 585,
-              "height" : 1024
-            }, {
-              "width" : 1170,
-              "height" : 2048
-            }, {
-              "width" : 2340,
-              "height" : 4096
-            } ],
-            "profile" : "level0",
-            "width" : 2340,
-            "id" : "https://tommyaghs.github.io/img-container/images/madonna-and-child",
-            "type" : "ImageService3",
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "height" : 4096
-          } ],
-          "format" : "image/jpeg",
-          "width" : 2340,
-          "id" : "https://tommyaghs.github.io/img-container/images/madonna-and-child/full/max/0/default.jpg",
-          "type" : "Image",
-          "height" : 4096
-        },
-        "target" : "https://tommyaghs.github.io/img-container/images/madonna-and-child/canvas/"
-      } ]
-    } ],
-    "height" : 4096
-  } ]
+        {
+            "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "enthroned_madonna_and_child_1949.7.1"
+                ]
+            },
+            "height": 4096,
+            "width": 2340,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 74,
+                                                "height": 128
+                                            },
+                                            {
+                                                "width": 147,
+                                                "height": 256
+                                            },
+                                            {
+                                                "width": 293,
+                                                "height": 512
+                                            },
+                                            {
+                                                "width": 585,
+                                                "height": 1024
+                                            },
+                                            {
+                                                "width": 1170,
+                                                "height": 2048
+                                            },
+                                            {
+                                                "width": 2340,
+                                                "height": 4096
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2340,
+                                        "@id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4096,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
