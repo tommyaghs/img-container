@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://tommyaghs.github.io/img-container/annotations/bub-annotations" ],
+  "otherContent" : [ "https://tommyaghs.github.io/img-container/annotations/bub-annotations", "https://tommyaghs.github.io/img-container/annotations/w3c-annotations.json" ],
   "@id" : "https://tommyaghs.github.io/img-container/annotations/collection.json",
   "label" : "All annotations loaded in tommyaghs/img-container project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
