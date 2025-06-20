@@ -1,39 +1,70 @@
 {
-  "@context" : [ "http://www.w3.org/ns/anno.jsonld", "http://iiif.io/api/presentation/3/context.json" ],
-  "id" : "https://tommyaghs.github.io/img-container/annotations/w3c-annotations.json",
-  "type" : "AnnotationPage",
-  "items" : [ {
-    "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-1",
-    "type" : "Annotation",
-    "motivation" : "commenting",
-    "body" : {
-      "type" : "TextualBody",
-      "value" : "Questa è una nota di prova su un'area.",
-      "format" : "text/plain",
-      "language" : "it"
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://tuo.dominio/annotations/w3c-annotations.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://tuo.dominio/img-container/canvas/BUB_Ms4093-21v/annotation/w3c-553",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tonality different from the 'proper' Maya blue R_03. ...\n\nRisultato: Maya blue\nMin at 292 and 662 nm",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://tuo.dominio/img-container/canvas/BUB_Ms4093-21v#xywh=918,836,100,100"
     },
-    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=50,50,100,100"
-  }, {
-    "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-2",
-    "type" : "Annotation",
-    "motivation" : "tagging",
-    "body" : {
-      "type" : "TextualBody",
-      "value" : "Test Tag",
-      "format" : "text/plain",
-      "language" : "en"
+    {
+      "id": "https://tuo.dominio/img-container/canvas/BUB_Ms4093-21v/annotation/w3c-554",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "As showing up in the XRF spot/map analysis …\n\nRisultato: Yellow pigment (orpiment …)\nInfl. at 507 nm",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://tuo.dominio/img-container/canvas/BUB_Ms4093-21v#xywh=748,1071,100,100"
     },
-    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=200,200,80,120"
-  }, {
-    "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-3",
-    "type" : "Annotation",
-    "motivation" : "commenting",
-    "body" : {
-      "type" : "TextualBody",
-      "value" : "Questa è una nota di prova sull'intera immagine.",
-      "format" : "text/plain",
-      "language" : "it"
+    {
+      "id": "https://tuo.dominio/img-container/canvas/BUB_Ms4093-21v/annotation/w3c-555",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Insect-derived anthraquinone lake …",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://tuo.dominio/img-container/canvas/BUB_Ms4093-21v#xywh=1109,472,100,100"
     },
-    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r"
-  } ]
+    {
+      "id": "https://tuo.dominio/img-container/canvas/BUB_Ms4093-21v/annotation/w3c-556",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Insect-derived anthraquinone lake …",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://tuo.dominio/img-container/canvas/BUB_Ms4093-21v#xywh=1079,1153,100,100"
+    },
+    {
+      "id": "https://tuo.dominio/img-container/canvas/BUB_Ms4093-21v/annotation/w3c-557",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Zn-based retouch\nLead and chromium …\n\nRisultato: Zinc oxide, yellow pigment …",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://tuo.dominio/img-container/canvas/BUB_Ms4093-21v#xywh=960,586,100,100"
+    }
+  ]
 }
