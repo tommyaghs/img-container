@@ -85,5 +85,11 @@
       "en" : [ "Blank Manifest" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://tommyaghs.github.io/img-container/manifests/mutlilayer-export.json",
+    "label" : {
+      "en" : [ "Multilayer export" ]
+    },
+    "type" : "Manifest"
   } ]
 }
