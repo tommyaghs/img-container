@@ -576,6 +576,87 @@
             ]
         },
         {
+            "id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "BUB_Ms4093-6r-fotor-20250620113624"
+                ]
+            },
+            "height": 1333,
+            "width": 2000,
+            "items": [
+                {
+                    "id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 63,
+                                                "height": 42
+                                            },
+                                            {
+                                                "width": 125,
+                                                "height": 84
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 167
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 334
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 667
+                                            },
+                                            {
+                                                "width": 2000,
+                                                "height": 1333
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2000,
+                                        "@id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1333,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://tommyaghs.github.io/img-container/images/Fot/canvas/",
             "type": "Canvas",
             "label": {
