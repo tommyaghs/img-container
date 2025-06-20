@@ -32,18 +32,14 @@
                 "width": 2000,
                 "service": [
                   {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r",
-                    "protocol": "http://iiif.io/api/image",
-                    "width": 2000,
-                    "height": 1333,
                     "tiles": [
                       {
+                        "scaleFactors": [32, 16, 8, 4, 2, 1],
                         "width": 1024,
-                        "height": 1024,
-                        "scaleFactors": [32, 16, 8, 4, 2, 1]
+                        "height": 1024
                       }
                     ],
+                    "protocol": "http://iiif.io/api/image",
                     "sizes": [
                       { "width": 63, "height": 42 },
                       { "width": 125, "height": 84 },
@@ -52,7 +48,11 @@
                       { "width": 1000, "height": 667 },
                       { "width": 2000, "height": 1333 }
                     ],
-                    "profile": "http://iiif.io/api/image/2/level0.json"
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 2000,
+                    "@id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 1333
                   }
                 ]
               }
@@ -70,18 +70,14 @@
                 "width": 2000,
                 "service": [
                   {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624",
-                    "protocol": "http://iiif.io/api/image",
-                    "width": 2000,
-                    "height": 1333,
                     "tiles": [
                       {
+                        "scaleFactors": [32, 16, 8, 4, 2, 1],
                         "width": 1024,
-                        "height": 1024,
-                        "scaleFactors": [32, 16, 8, 4, 2, 1]
+                        "height": 1024
                       }
                     ],
+                    "protocol": "http://iiif.io/api/image",
                     "sizes": [
                       { "width": 63, "height": 42 },
                       { "width": 125, "height": 84 },
@@ -90,7 +86,11 @@
                       { "width": 1000, "height": 667 },
                       { "width": 2000, "height": 1333 }
                     ],
-                    "profile": "http://iiif.io/api/image/2/level0.json"
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 2000,
+                    "@id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 1333
                   }
                 ]
               }
@@ -101,27 +101,36 @@
               "motivation": "painting",
               "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
               "body": {
-                "@context": "http://iiif.io/api/image/2/context.json",
-                "@id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-2025062015752",
-                "protocol": "http://iiif.io/api/image",
-                "width": 2000,
+                "id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-2025062015752/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
                 "height": 1333,
-                "tiles": [
+                "width": 2000,
+                "service": [
                   {
-                    "width": 1024,
-                    "height": 1024,
-                    "scaleFactors": [32, 16, 8, 4, 2, 1]
+                    "tiles": [
+                      {
+                        "scaleFactors": [32, 16, 8, 4, 2, 1],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      { "width": 63, "height": 42 },
+                      { "width": 125, "height": 84 },
+                      { "width": 250, "height": 167 },
+                      { "width": 500, "height": 334 },
+                      { "width": 1000, "height": 667 },
+                      { "width": 2000, "height": 1333 }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "width": 2000,
+                    "@id": "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-2025062015752",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "height": 1333
                   }
-                ],
-                "sizes": [
-                  { "width": 63, "height": 42 },
-                  { "width": 125, "height": 84 },
-                  { "width": 250, "height": 167 },
-                  { "width": 500, "height": 334 },
-                  { "width": 1000, "height": 667 },
-                  { "width": 2000, "height": 1333 }
-                ],
-                "profile": "http://iiif.io/api/image/2/level0.json"
+                ]
               }
             }
           ]
