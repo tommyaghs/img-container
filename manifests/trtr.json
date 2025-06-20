@@ -5,78 +5,38 @@
   "label" : {
     "en" : [ "Blank Manifest" ]
   },
-  "items" : [ {
-    "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579",
-    "type" : "Canvas",
-    "height" : 2410,
-    "width" : 5284,
-    "label" : {
-      "en" : [ "Untitled canvas" ]
-    },
-    "summary" : {
-      "en" : [ "" ]
-    },
-    "items" : [ {
-      "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579/annotation-page/60143660-0c22-475a-8395-7b3b5d658262",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/annotation/f2e1e117-482f-47f9-bd8a-28121cf2b93e",
-        "type" : "Annotation",
-        "motivation" : "painting",
-        "target" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579",
-        "label" : {
-          "en" : [ "" ]
-        },
-        "body" : {
-          "id" : "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx/full/max/0/default.jpg",
-          "type" : "Image",
-          "format" : "image/jpeg",
-          "height" : 2410,
-          "width" : 5284,
-          "service" : [ {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "protocol" : "http://iiif.io/api/image",
-            "width" : 5284,
-            "height" : 2410,
-            "sizes" : [ {
-              "width" : 165,
-              "height" : 75
+  "items" : [   {
+              "tiles" : [ {
+                "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+                "width" : 1024,
+                "height" : 1024
+              } ],
+              "protocol" : "http://iiif.io/api/image",
+              "sizes" : [ {
+                "width" : 63,
+                "height" : 42
+              }, {
+                "width" : 125,
+                "height" : 84
+              }, {
+                "width" : 250,
+                "height" : 167
+              }, {
+                "width" : 500,
+                "height" : 334
+              }, {
+                "width" : 1000,
+                "height" : 667
+              }, {
+                "width" : 2000,
+                "height" : 1333
+              } ],
+              "profile" : "http://iiif.io/api/image/2/level0.json",
+              "width" : 2000,
+              "@id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r",
+              "@context" : "http://iiif.io/api/image/2/context.json",
+              "height" : 1333
             }, {
-              "width" : 330,
-              "height" : 150
-            }, {
-              "width" : 660,
-              "height" : 301
-            }, {
-              "width" : 1321,
-              "height" : 602
-            }, {
-              "width" : 2642,
-              "height" : 1205
-            } ],
-            "tiles" : [ {
-              "width" : 256,
-              "height" : 256,
-              "scaleFactors" : [ 1, 2, 4, 8, 16, 32 ]
-            } ],
-            "@id" : "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg", "png", "webp" ],
-              "qualities" : [ "native", "color", "gray", "bitonal" ],
-              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
-              "maxWidth" : 20000,
-              "maxHeight" : 20000
-            } ],
-            "service" : [ {
-              "@context" : "http://iiif.io/api/annex/services/physdim/1/context.json",
-              "profile" : "http://iiif.io/api/annex/services/physdim",
-              "physicalScale" : 0.00846667,
-              "physicalUnits" : "cm"
-            } ],
-            "id" : "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0107/0000010732/00000072.jpx"
-          } ]
-        }
-      }, {
         "id" : "https://example.org/be1e8974-4b55-46fd-8e48-2f3bff7416fa/canvas/983fcbd1-ae0c-447c-983d-32242ea0a579/annotation-page/60143660-0c22-475a-8395-7b3b5d658262/annotation/1de83847-a239-4f85-8aff-d0dabeca0d6c",
         "type" : "Annotation",
         "label" : {
