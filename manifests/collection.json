@@ -91,5 +91,11 @@
       "en" : [ "Multilayer export" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://tommyaghs.github.io/img-container/manifests/miradorManifest.json",
+    "label" : {
+      "en" : [ "Enthroned Madonna and Child (1949.7.1)" ]
+    },
+    "type" : "Manifest"
   } ]
 }
