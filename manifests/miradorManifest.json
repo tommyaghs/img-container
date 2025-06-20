@@ -3,7 +3,7 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/manifest.json",
+  "id": "https://tommyaghs.github.io/img-container/manifests/miradorManifest.json",
   "type": "Manifest",
   "label": { "en": [ "Enthroned Madonna and Child (1949.7.1)" ] },
   "items": [
@@ -18,7 +18,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/annotation/1",
+              "id": "https://tommyaghs.github.io/img-container/manifests/miradorManifest.json/canvas/1/annotation/painting",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -56,11 +56,11 @@
   ],
   "annotations": [
     {
-      "id": "https://tommyaghs.github.io/img-container/annotations/enthroned_madonna_annotation_page/1",
+      "id": "https://tommyaghs.github.io/img-container/manifests/miradorManifest.json/annotations/page",
       "type": "AnnotationPage",
       "items": [
         {
-          "id": "https://tommyaghs.github.io/img-container/annotations/enthroned_madonna_annotation_2",
+          "id": "https://tommyaghs.github.io/img-container/manifests/miradorManifest.json/annotation/comment-1",
           "type": "Annotation",
           "motivation": "commenting",
           "body": {
@@ -72,13 +72,13 @@
           "target": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/1#xywh=500,1000,400,400"
         },
         {
-          "id": "https://tommyaghs.github.io/img-container/annotations/enthroned_madonna_svg_2",
+          "id": "https://tommyaghs.github.io/img-container/manifests/miradorManifest.json/annotation/svg-1",
           "type": "Annotation",
           "motivation": "commenting",
           "body": {
             "type": "Svg",
             "format": "image/svg+xml",
-            "value": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'>\n  <rect x='0' y='0' width='400' height='400' style='fill:none;stroke:yellow;stroke-width:5'/>\n</svg>"
+            "value": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'>\n  <rect x='0' y='0' width='400' height='400' style='fill:none;stroke:yellow;stroke-width:5'/><text x='10' y='20' font-family='Arial' font-size='20' fill='yellow'>Annotazione di esempio</text>\n</svg>"
           },
           "target": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/1#xywh=500,1000,400,400"
         }
