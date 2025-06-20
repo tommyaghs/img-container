@@ -1,0 +1,212 @@
+{
+  "@context" : [ "http://www.w3.org/ns/anno.jsonld", "http://iiif.io/api/presentation/3/context.json" ],
+  "id" : "https://tommyaghs.github.io/img-container/annotations/point-analyses-w3c-72-2025-06-20.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "https://digilab-mddm-fe/canvas/176/point-analysis/w3c-487",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : [ {
+      "type" : "TextualBody",
+      "value" : "asas",
+      "purpose" : "commenting",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Point ID: 487",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Investigation ID: 72",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Experimental Technique ID: 1",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Section ID: 1",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Page: 1",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Number: 9999",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Result: ss",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Other: das",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Create Date: Thu Jun 19 2025 09:36:27 GMT+0200 (Ora legale dell’Europa centrale)",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Modified Date: Thu Jun 19 2025 09:36:27 GMT+0200 (Ora legale dell’Europa centrale)",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Created By: 1",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Modified By: 1",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Data: 1_Spectrum_9999_das - ewwe",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "Video",
+      "id" : "/media/Project_7/Ms4093_21v_R_09_yellow_merge_1749984844132.txt"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Data: 1_Spectrum_9999_das - www",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "Video",
+      "id" : "/media/Project_7/Ms4093_21v_R_03_blue-bis_merge_1750346843727.txt"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Data: 1_Spectrum_9999_das - ef",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "Video",
+      "id" : "/media/Project_7/Ms4093_26v_R_06_green_merge_1750347967682.txt"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Data: 1_Spectrum_9999_das - dwdwwddw",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "Video",
+      "id" : "/media/Project_7/Ms4093_26v_R_05_blue_merge_1750347967556.txt"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Data: 1_Spectrum_9999_das - dd",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "Video",
+      "id" : "/media/Project_7/Ms4093_26v_R_04_green_merge_1750348499869.txt"
+    } ],
+    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
+  }, {
+    "id" : "https://digilab-mddm-fe/canvas/176/point-analysis/w3c-489",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : [ {
+      "type" : "TextualBody",
+      "value" : "asddsa",
+      "purpose" : "commenting",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Point ID: 489",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Investigation ID: 72",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Experimental Technique ID: 1",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Section ID: 1",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Page: 44",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Number: 566",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Result: asddsa",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Other: asd",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Create Date: Thu Jun 19 2025 21:34:31 GMT+0200 (Ora legale dell’Europa centrale)",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Modified Date: Thu Jun 19 2025 21:34:31 GMT+0200 (Ora legale dell’Europa centrale)",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Created By: 1",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Modified By: 1",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Data: 44_Spectrum_566_asd - reeest",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "Video",
+      "id" : "/media/Project_7/Ms4093_21v_R_04_green_merge_1750258186615.txt"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Data: 44_Spectrum_566_asd - sasc",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "Video",
+      "id" : "/media/Project_7/Ms4093_26v_R_04_green_merge_1750258051093.txt"
+    }, {
+      "type" : "TextualBody",
+      "value" : "Data: 44_Spectrum_566_asd - eee",
+      "purpose" : "describing",
+      "format" : "text/plain"
+    }, {
+      "type" : "Video",
+      "id" : "/media/Project_7/Ms4093_21v_R_06_yellow_merge_1750179205594.txt"
+    } ],
+    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
+  } ]
+}
