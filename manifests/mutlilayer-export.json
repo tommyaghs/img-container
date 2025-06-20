@@ -1,0 +1,110 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tommyaghs.github.io/img-container/manifests/mutlilayer-export.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Multilayer export" ]
+  },
+  "items" : [ {
+    "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
+    "type" : "Canvas",
+    "height" : 1333,
+    "width" : 2000,
+    "label" : {
+      "en" : [ "BUB_Ms4093-6r" ]
+    },
+    "items" : [ {
+      "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation-page/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
+        "body" : {
+          "id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1333,
+          "width" : 2000,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 63,
+              "height" : 42
+            }, {
+              "width" : 125,
+              "height" : 84
+            }, {
+              "width" : 250,
+              "height" : 167
+            }, {
+              "width" : 500,
+              "height" : 334
+            }, {
+              "width" : 1000,
+              "height" : 667
+            }, {
+              "width" : 2000,
+              "height" : 1333
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2000,
+            "@id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1333
+          } ]
+        }
+      }, {
+        "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
+        "body" : {
+          "id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1333,
+          "width" : 2000,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 63,
+              "height" : 42
+            }, {
+              "width" : 125,
+              "height" : 84
+            }, {
+              "width" : 250,
+              "height" : 167
+            }, {
+              "width" : 500,
+              "height" : 334
+            }, {
+              "width" : 1000,
+              "height" : 667
+            }, {
+              "width" : 2000,
+              "height" : 1333
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2000,
+            "@id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1333
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
