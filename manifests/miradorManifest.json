@@ -1,78 +1,65 @@
 {
-  "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "id" : "https://tommyaghs.github.io/img-container/manifests/miradorManifest.json",
-  "type" : "Manifest",
-  "label" : {
-    "en" : [ "Enthroned Madonna and Child (1949.7.1)" ]
-  },
-  "items" : [ {
-    "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/1",
-    "type" : "Canvas",
-    "width" : 2340,
-    "height" : 4096,
-    "items" : [ {
-      "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/page/1",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/annotation/1",
-        "type" : "Annotation",
-        "motivation" : "painting",
-        "target" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/1",
-        "body" : {
-          "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/full/max/0/default.jpg",
-          "type" : "Image",
-          "format" : "image/jpeg",
-          "width" : 2340,
-          "height" : 4096,
-          "service" : [ {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1",
-            "protocol" : "http://iiif.io/api/image",
-            "width" : 2340,
-            "height" : 4096,
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "sizes" : [ {
-              "width" : 74,
-              "height" : 128
-            }, {
-              "width" : 147,
-              "height" : 256
-            }, {
-              "width" : 293,
-              "height" : 512
-            }, {
-              "width" : 585,
-              "height" : 1024
-            }, {
-              "width" : 1170,
-              "height" : 2048
-            }, {
-              "width" : 2340,
-              "height" : 4096
-            } ]
-          } ]
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/manifest.json",
+  "type": "Manifest",
+  "label": { "en": [ "Enthroned Madonna and Child (1949.7.1)" ] },
+  "items": [
+    {
+      "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/1",
+      "type": "Canvas",
+      "width": 2340,
+      "height": 4096,
+      "items": [
+        {
+          "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/1",
+              "body": {
+                "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2340,
+                "height": 4096,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 2340,
+                    "height": 4096,
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "tiles": [ { "scaleFactors": [ 32, 16, 8, 4, 2, 1 ], "width": 1024, "height": 1024 } ],
+                    "sizes": [
+                      { "width": 74, "height": 128 },
+                      { "width": 147, "height": 256 },
+                      { "width": 293, "height": 512 },
+                      { "width": 585, "height": 1024 },
+                      { "width": 1170, "height": 2048 },
+                      { "width": 2340, "height": 4096 }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/1#xywh=500,1000,400,400",
+              "body": {
+                "type": "Svg",
+                "format": "image/svg+xml",
+                "value": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'>\n  <rect x='0' y='0' width='400' height='400' style='fill:none;stroke:yellow;stroke-width:5'/>\n  <text x='10' y='20' font-family='Arial' font-size='20' fill='yellow'>Annotazione di esempio</text>\n</svg>"
+              }
+            }
+          ]
         }
-      }, {
-        "id" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/annotation/2",
-        "type" : "Annotation",
-        "motivation" : "commenting",
-        "target" : "https://tommyaghs.github.io/img-container/images/enthroned_madonna_and_child_1949.7.1/canvas/1#xywh=500,1000,400,400",
-        "body" : [ {
-          "type" : "TextualBody",
-          "value" : "Annotazione di esempio",
-          "format" : "text/plain",
-          "language" : "it"
-        }, {
-          "type" : "Svg",
-          "format" : "image/svg+xml",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><rect x='0' y='0' width='400' height='400' style='fill:none;stroke:yellow;stroke-width:5'/></svg>"
-        } ]
-      } ]
-    } ]
-  } ]
+      ]
+    }
+  ]
 }
