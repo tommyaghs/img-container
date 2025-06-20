@@ -1,0 +1,39 @@
+{
+  "@context" : [ "http://www.w3.org/ns/anno.jsonld", "http://iiif.io/api/presentation/3/context.json" ],
+  "id" : "https://tommyaghs.github.io/img-container/annotations/w3c-annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Questa è una nota di prova su un'area.",
+      "format" : "text/plain",
+      "language" : "it"
+    },
+    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=50,50,100,100"
+  }, {
+    "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-2",
+    "type" : "Annotation",
+    "motivation" : "tagging",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Test Tag",
+      "format" : "text/plain",
+      "language" : "en"
+    },
+    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=200,200,80,120"
+  }, {
+    "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Questa è una nota di prova sull'intera immagine.",
+      "format" : "text/plain",
+      "language" : "it"
+    },
+    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r"
+  } ]
+}
