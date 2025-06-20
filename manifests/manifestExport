@@ -62,97 +62,13 @@
             }
           ]
         }
-      }, {
-        "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/2",
-        "type" : "Annotation",
-        "motivation" : "painting",
-        "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "body" : {
-          "id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624/full/full/0/default.jpg",
-          "type" : "Image",
-          "format" : "image/jpeg",
-          "height" : 1333,
-          "width" : 2000,
-          "service" : [
-            {
-              "tiles" : [ {
-                "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-                "width" : 1024,
-                "height" : 1024
-              } ],
-              "protocol" : "http://iiif.io/api/image",
-              "sizes" : [ {
-                "width" : 63,
-                "height" : 42
-              }, {
-                "width" : 125,
-                "height" : 84
-              }, {
-                "width" : 250,
-                "height" : 167
-              }, {
-                "width" : 500,
-                "height" : 334
-              }, {
-                "width" : 1000,
-                "height" : 667
-              }, {
-                "width" : 2000,
-                "height" : 1333
-              } ],
-              "profile" : "http://iiif.io/api/image/2/level0.json",
-              "width" : 2000,
-              "@id" : "https://tommyaghs.github.io/img-container/images/BUB_Ms4093-6r-fotor-20250620113624",
-              "@context" : "http://iiif.io/api/image/2/context.json",
-              "height" : 1333
-            }
-          ]
-        }
-      } ],
-      "annotations": [
-        {
-          "id": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotations/page/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-1",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "value": "Questa è una nota di prova su un'area.",
-                "format": "text/plain",
-                "language": "it"
-              },
-              "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=50,50,100,100"
-            },
-            {
-              "id": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-2",
-              "type": "Annotation",
-              "motivation": "tagging",
-              "body": {
-                  "type": "TextualBody",
-                  "value": "Test Tag",
-                  "format": "text/plain",
-                  "language": "en"
-              },
-              "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=200,200,80,120"
-            },
-            {
-              "id": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-3",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "value": "Questa è una nota di prova sull'intera immagine.",
-                "format": "text/plain",
-                "language": "it"
-              },
-              "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r"
-            }
-          ]
-        }
-      ]
-    } ]
+      } ]
+    } ],
+    "annotations": [
+      {
+        "id": "https://tommyaghs.github.io/img-container/annotations/bub-annotations",
+        "type": "AnnotationPage"
+      }
+    ]
   } ] 
 }
