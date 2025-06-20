@@ -106,14 +106,7 @@
           "id": "/media/Project_8/Ms4093_21v_M_01_white.0.dpt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-4,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-4,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-498",
@@ -215,14 +208,7 @@
           "id": "/media/Project_8/Ms4093_21v_M_02_blue.0.dpt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-4,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-4,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-499",
@@ -324,14 +310,7 @@
           "id": "/media/Project_8/Ms4093_21v_M_03_blue.0.dpt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-500",
@@ -433,14 +412,7 @@
           "id": "/media/Project_8/Ms4093_21v_M_04_green.0.dpt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-501",
@@ -542,14 +514,7 @@
           "id": "/media/Project_8/Ms4093_21v_M_05_yellow.0.dpt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-502",
@@ -651,14 +616,7 @@
           "id": "/media/Project_8/Ms4093_21v_M_06_yellow.0.dpt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-503",
@@ -760,14 +718,7 @@
           "id": "/media/Project_8/Ms4093_21v_M_07_red.0.dpt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-504",
@@ -869,14 +820,7 @@
           "id": "/media/Project_8/Ms4093_21v_M_08_blue.0.dpt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-4,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-4,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-505",
@@ -978,14 +922,7 @@
           "id": "/media/Project_8/Ms4093_21v_M_09_blue.0.dpt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-506",
@@ -1081,14 +1018,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_01_yellow.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-507",
@@ -1184,14 +1114,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_02_yellow.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-508",
@@ -1287,14 +1210,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_03_blue.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-509",
@@ -1390,14 +1306,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_04_blue.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-510",
@@ -1493,14 +1402,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_05_red.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-511",
@@ -1596,14 +1498,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_06_red.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-512",
@@ -1699,14 +1594,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_07_blue.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-4,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-4,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-513",
@@ -1802,14 +1690,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_08_blue.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-4,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-4,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-514",
@@ -1905,14 +1786,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_09_white.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-4,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-4,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-515",
@@ -2008,14 +1882,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_10_white.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-4,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-4,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-516",
@@ -2111,14 +1978,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_11_blue.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-517",
@@ -2214,14 +2074,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_12_grey.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-518",
@@ -2317,14 +2170,7 @@
           "id": "/media/Project_8/Ms4093_21v_X_13_black.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-4,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-4,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-530",
@@ -2426,14 +2272,7 @@
           "id": "/media/Project_8/Ms4093_21v_R_01_blue_merge.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-4,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-4,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-531",
@@ -2535,14 +2374,7 @@
           "id": "/media/Project_8/Ms4093_21v_R_02_blue_merge.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-4,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-4,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-532",
@@ -2654,14 +2486,7 @@
           "id": "/media/Project_8/Ms4093_21v_R_03_blue_merge.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-533",
@@ -2773,14 +2598,7 @@
           "id": "/media/Project_8/Ms4093_21v_R_04_green_merge.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-534",
@@ -2882,14 +2700,7 @@
           "id": "/media/Project_8/Ms4093_21v_R_05_blue_merge.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-535",
@@ -2991,14 +2802,7 @@
           "id": "/media/Project_8/Ms4093_21v_R_06_yellow_merge.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-536",
@@ -3100,14 +2904,7 @@
           "id": "/media/Project_8/Ms4093_21v_R_07_red_merge.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-537",
@@ -3209,14 +3006,7 @@
           "id": "/media/Project_8/Ms4093_21v_R_08_red_merge.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-4,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-4,-5,10,10"
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-538",
@@ -3318,14 +3108,7 @@
           "id": "/media/Project_8/Ms4093_21v_R_09_yellow_merge.txt"
         }
       ],
-      "target": {
-        "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:-5,-5,10,10"
-        }
-      }
+      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=-5,-5,10,10"
     }
   ]
 }
