@@ -1,70 +1,39 @@
 {
-  "@context": [
-    "http://www.w3.org/ns/anno.jsonld",
-    "http://iiif.io/api/presentation/3/context.json"
-  ],
-  "id": "https://tommyaghs.github.io/img-container/annotations/w3c-annotations.json",
-  "type": "AnnotationPage",
-  "items": [
-    {
-      "id": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-21v/annotation/w3c-553",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Tonality different from the 'proper' Maya blue R_03. There is no evidence of a yellow component but the tonality is slightly shifted towards the green.\n\nResult: Maya blue\nMin at 292 and 662 nm",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-21v#xywh=459,279,100,100"
+  "@context" : [ "http://www.w3.org/ns/anno.jsonld", "http://iiif.io/api/presentation/3/context.json" ],
+  "id" : "https://tommyaghs.github.io/img-container/annotations/w3c-annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Questa è una nota di prova su un'area.",
+      "format" : "text/plain",
+      "language" : "it"
     },
-    {
-      "id": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-21v/annotation/w3c-554",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "As showing up in the XRF spot/map analysis (Orpiment identified by Raman analysis in 2006).\n\nResult: Yellow pigment (orpiment as suggested by XRF and Raman analysis)\nInfl. at 507 nm",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-21v#xywh=374,357,100,100"
+    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=50,50,100,100"
+  }, {
+    "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-2",
+    "type" : "Annotation",
+    "motivation" : "tagging",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Test Tag",
+      "format" : "text/plain",
+      "language" : "en"
     },
-    {
-      "id": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-21v/annotation/w3c-555",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Insect-derived anthraquinone lake (i.e. cochineal lake)\nMin at 516 and 560 nm",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-21v#xywh=554,157,100,100"
+    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r#xywh=200,200,80,120"
+  }, {
+    "id" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r/annotation/w3c-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Questa è una nota di prova sull'intera immagine.",
+      "format" : "text/plain",
+      "language" : "it"
     },
-    {
-      "id": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-21v/annotation/w3c-556",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Insect-derived anthraquinone lake (i.e. cochineal lake)\nMin at 516 and 558 nm",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-21v#xywh=539,384,100,100"
-    },
-    {
-      "id": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-21v/annotation/w3c-557",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Zn-based retouch\nLead and chromium showing up in the XRF spot/map analysis.\n\nResult: Zinc oxide, yellow pigment (most probably lead chromate as suggested by XRF analysis)\nInfl. at 380 and 515 nm",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-21v#xywh=480,195,100,100"
-    }
-  ]
-}
+    "target" : "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r"
+  } ]
+} 
