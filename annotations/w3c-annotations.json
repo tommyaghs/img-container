@@ -10,1301 +10,3321 @@
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-497",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "M",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "M",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 497",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #ff0000",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Gypsum, calcium carbonate (vw)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: white",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:32 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_M_01_white - _.0",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_M_01_white.0.dpt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 1
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-4,10,10"
         }
-      },
-      "custom": {
-        "pointId": 497,
-        "color": "#ff0000",
-        "investigationId": 75,
-        "experimentalTechniqueId": 2,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 1,
-        "result": "Gypsum, calcium carbonate (vw)",
-        "other": "white",
-        "createDate": "2025-06-20T10:27:26.398Z",
-        "modifiedDate": "2025-06-20T12:21:32.134Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 480,
-            "name": "Ms4093_21v_M_01_white",
-            "detail": "_.0",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_M_01_white.0.dpt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-498",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Dolomite possibly associated to the yellow orpiment-based component",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Dolomite possibly associated to the yellow orpiment-based component",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 498",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #ff0000",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Gypsum, dolomite, palygorskite, indigo",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:32 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_M_02_blue - _.0",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_M_02_blue.0.dpt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 1
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-4,10,10"
         }
-      },
-      "custom": {
-        "pointId": 498,
-        "color": "#ff0000",
-        "investigationId": 75,
-        "experimentalTechniqueId": 2,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 2,
-        "result": "Gypsum, dolomite, palygorskite, indigo",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:26.423Z",
-        "modifiedDate": "2025-06-20T12:21:32.160Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 481,
-            "name": "Ms4093_21v_M_02_blue",
-            "detail": "_.0",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_M_02_blue.0.dpt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-499",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "M",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "M",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 499",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #ff0000",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 3",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Gypsum, possibly calcium carbonate, palygorskite, indigo",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:32 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_M_03_blue - _.0",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_M_03_blue.0.dpt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 499,
-        "color": "#ff0000",
-        "investigationId": 75,
-        "experimentalTechniqueId": 2,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 3,
-        "result": "Gypsum, possibly calcium carbonate, palygorskite, indigo",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:26.451Z",
-        "modifiedDate": "2025-06-20T12:21:32.173Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 482,
-            "name": "Ms4093_21v_M_03_blue",
-            "detail": "_.0",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_M_03_blue.0.dpt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-500",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "M",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "M",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 500",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #ff0000",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 4",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Gypsum, possibly calcium carbonate, palygorskite, indigo",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: green",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:32 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_M_04_green - _.0",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_M_04_green.0.dpt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 500,
-        "color": "#ff0000",
-        "investigationId": 75,
-        "experimentalTechniqueId": 2,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 4,
-        "result": "Gypsum, possibly calcium carbonate, palygorskite, indigo",
-        "other": "green",
-        "createDate": "2025-06-20T10:27:26.477Z",
-        "modifiedDate": "2025-06-20T12:21:32.187Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 483,
-            "name": "Ms4093_21v_M_04_green",
-            "detail": "_.0",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_M_04_green.0.dpt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-501",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "M",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "M",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 501",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #ff0000",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 5",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Gypsum",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: yellow",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:32 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_M_05_yellow - _.0",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_M_05_yellow.0.dpt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 501,
-        "color": "#ff0000",
-        "investigationId": 75,
-        "experimentalTechniqueId": 2,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 5,
-        "result": "Gypsum",
-        "other": "yellow",
-        "createDate": "2025-06-20T10:27:26.505Z",
-        "modifiedDate": "2025-06-20T12:21:32.202Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 484,
-            "name": "Ms4093_21v_M_05_yellow",
-            "detail": "_.0",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_M_05_yellow.0.dpt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-502",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "M",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "M",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 502",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #ff0000",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 6",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Gypsum, calcium carbonate, orpiment, probably dolomite",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: yellow",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:32 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_M_06_yellow - _.0",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_M_06_yellow.0.dpt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 502,
-        "color": "#ff0000",
-        "investigationId": 75,
-        "experimentalTechniqueId": 2,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 6,
-        "result": "Gypsum, calcium carbonate, orpiment, probably dolomite",
-        "other": "yellow",
-        "createDate": "2025-06-20T10:27:26.535Z",
-        "modifiedDate": "2025-06-20T12:21:32.216Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 485,
-            "name": "Ms4093_21v_M_06_yellow",
-            "detail": "_.0",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_M_06_yellow.0.dpt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-503",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "M",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "M",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 503",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #ff0000",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Gypsum, possibly protein (?)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: red",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:32 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_M_07_red - _.0",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_M_07_red.0.dpt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 503,
-        "color": "#ff0000",
-        "investigationId": 75,
-        "experimentalTechniqueId": 2,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 7,
-        "result": "Gypsum, possibly protein (?)",
-        "other": "red",
-        "createDate": "2025-06-20T10:27:26.562Z",
-        "modifiedDate": "2025-06-20T12:21:32.231Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 486,
-            "name": "Ms4093_21v_M_07_red",
-            "detail": "_.0",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_M_07_red.0.dpt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-504",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Dolomite possibly associated to the yellow orpiment-based component",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Dolomite possibly associated to the yellow orpiment-based component",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 504",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #ff0000",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 8",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Gypsum, dolomite, palygorskite, indigo",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:32 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_M_08_blue - _.0",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_M_08_blue.0.dpt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 1
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-4,10,10"
         }
-      },
-      "custom": {
-        "pointId": 504,
-        "color": "#ff0000",
-        "investigationId": 75,
-        "experimentalTechniqueId": 2,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 8,
-        "result": "Gypsum, dolomite, palygorskite, indigo",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:26.593Z",
-        "modifiedDate": "2025-06-20T12:21:32.245Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 487,
-            "name": "Ms4093_21v_M_08_blue",
-            "detail": "_.0",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_M_08_blue.0.dpt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-505",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "M",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "M",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 505",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #ff0000",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: gypsum, calcium carbonate (weak), palygorskite",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:32 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_M_09_blue - _.0",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_M_09_blue.0.dpt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 505,
-        "color": "#ff0000",
-        "investigationId": 75,
-        "experimentalTechniqueId": 2,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 9,
-        "result": "gypsum, calcium carbonate (weak), palygorskite",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:26.625Z",
-        "modifiedDate": "2025-06-20T12:21:32.259Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 488,
-            "name": "Ms4093_21v_M_09_blue",
-            "detail": "_.0",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_M_09_blue.0.dpt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-506",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "retouching?",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "retouching?",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 506",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, As, Zn, S, Fe, Br, Pb, Cr, K (Ti)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: yellow",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_01_yellow - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_01_yellow.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 506,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 1,
-        "result": "Ca, As, Zn, S, Fe, Br, Pb, Cr, K (Ti)",
-        "other": "yellow",
-        "createDate": "2025-06-20T10:27:26.661Z",
-        "modifiedDate": "2025-06-20T10:27:26.661Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 489,
-            "name": "Ms4093_21v_X_01_yellow",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_01_yellow.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-507",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "X",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "X",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 507",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: As, Ca, S, Fe, Pb, Sr (K, Br, Ti, Cr, Zn?)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: yellow",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_02_yellow - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_02_yellow.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 507,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 2,
-        "result": "As, Ca, S, Fe, Pb, Sr (K, Br, Ti, Cr, Zn?)",
-        "other": "yellow",
-        "createDate": "2025-06-20T10:27:26.708Z",
-        "modifiedDate": "2025-06-20T10:27:26.708Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 490,
-            "name": "Ms4093_21v_X_02_yellow",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_02_yellow.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-508",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "X",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "X",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 508",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 3",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, As, Fe, S, K, Br, Sr (Si, Ti, Mn, Cr)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_03_blue - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_03_blue.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 508,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 3,
-        "result": "Ca, As, Fe, S, K, Br, Sr (Si, Ti, Mn, Cr)",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:26.753Z",
-        "modifiedDate": "2025-06-20T10:27:26.753Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 491,
-            "name": "Ms4093_21v_X_03_blue",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_03_blue.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-509",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "X",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "X",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 509",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 4",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, Fe, S, K, Si, Br, As, Sr (Ti, Mn, Cr)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_04_blue - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_04_blue.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 509,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 4,
-        "result": "Ca, Fe, S, K, Si, Br, As, Sr (Ti, Mn, Cr)",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:26.794Z",
-        "modifiedDate": "2025-06-20T10:27:26.794Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 492,
-            "name": "Ms4093_21v_X_04_blue",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_04_blue.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-510",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "X",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "X",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 510",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 5",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, S, Fe, K, As, Br, Sr (Ti) ",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: red",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_05_red - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_05_red.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 510,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 5,
-        "result": "Ca, S, Fe, K, As, Br, Sr (Ti) ",
-        "other": "red",
-        "createDate": "2025-06-20T10:27:26.836Z",
-        "modifiedDate": "2025-06-20T10:27:26.836Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 493,
-            "name": "Ms4093_21v_X_05_red",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_05_red.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-511",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "X",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "X",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 511",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 6",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, S, As, Fe, K, Br, Sr (Ti) ",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: red",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_06_red - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_06_red.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 511,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 6,
-        "result": "Ca, S, As, Fe, K, Br, Sr (Ti) ",
-        "other": "red",
-        "createDate": "2025-06-20T10:27:26.888Z",
-        "modifiedDate": "2025-06-20T10:27:26.888Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 494,
-            "name": "Ms4093_21v_X_06_red",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_06_red.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-512",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "bright blue (turquoise)",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "bright blue (turquoise)",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 512",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, As, S, Fe, K, Br, Sr, Si (Ti,  Mn, Cr, Al)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_07_blue - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_07_blue.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 1
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-4,10,10"
         }
-      },
-      "custom": {
-        "pointId": 512,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 7,
-        "result": "Ca, As, S, Fe, K, Br, Sr, Si (Ti,  Mn, Cr, Al)",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:26.935Z",
-        "modifiedDate": "2025-06-20T10:27:26.935Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 495,
-            "name": "Ms4093_21v_X_07_blue",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_07_blue.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-513",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "X",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "X",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 513",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 8",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, As, Fe, S, Sr, Br, K, Si (Ti, Mn, Cr, Al)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:26 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_08_blue - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_08_blue.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 1
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-4,10,10"
         }
-      },
-      "custom": {
-        "pointId": 513,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 8,
-        "result": "Ca, As, Fe, S, Sr, Br, K, Si (Ti, Mn, Cr, Al)",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:26.981Z",
-        "modifiedDate": "2025-06-20T10:27:26.981Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 496,
-            "name": "Ms4093_21v_X_08_blue",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_08_blue.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-514",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "X",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "X",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 514",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, S, Fe, Br, Sr, K (Ti, As)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: white",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:27 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:27 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_09_white - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_09_white.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 1
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-4,10,10"
         }
-      },
-      "custom": {
-        "pointId": 514,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 9,
-        "result": "Ca, S, Fe, Br, Sr, K (Ti, As)",
-        "other": "white",
-        "createDate": "2025-06-20T10:27:27.024Z",
-        "modifiedDate": "2025-06-20T10:27:27.024Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 497,
-            "name": "Ms4093_21v_X_09_white",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_09_white.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-515",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "to check for the migration of As from the opposite page",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "to check for the migration of As from the opposite page",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 515",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 10",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, S, As, Fe, Br, K (Ti, Cr, Mn)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: white",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:27 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:27 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_10_white - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_10_white.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 1
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-4,10,10"
         }
-      },
-      "custom": {
-        "pointId": 515,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 10,
-        "result": "Ca, S, As, Fe, Br, K (Ti, Cr, Mn)",
-        "other": "white",
-        "createDate": "2025-06-20T10:27:27.068Z",
-        "modifiedDate": "2025-06-20T10:27:27.068Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 498,
-            "name": "Ms4093_21v_X_10_white",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_10_white.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-516",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "X",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "X",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 516",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 11",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, Fe, S, K, Si, Br, As, Sr (Ti, Mn, Cr)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:27 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:27 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_11_blue - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_11_blue.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 516,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 11,
-        "result": "Ca, Fe, S, K, Si, Br, As, Sr (Ti, Mn, Cr)",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:27.113Z",
-        "modifiedDate": "2025-06-20T10:27:27.113Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 499,
-            "name": "Ms4093_21v_X_11_blue",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_11_blue.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-517",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "X",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "X",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 517",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 12",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, S, Fe, Br, Sr, K (Ti, As)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: grey",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:27 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:27 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_12_grey - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_12_grey.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 517,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 12,
-        "result": "Ca, S, Fe, Br, Sr, K (Ti, As)",
-        "other": "grey",
-        "createDate": "2025-06-20T10:27:27.162Z",
-        "modifiedDate": "2025-06-20T10:27:27.162Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 500,
-            "name": "Ms4093_21v_X_12_grey",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_12_grey.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-518",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "X",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "X",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 518",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 13",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Ca, S, Fe, Br, Sr, K (Ti, As)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: black",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:27 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 12:27:27 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_X_13_black - _",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_X_13_black.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 1
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-4,10,10"
         }
-      },
-      "custom": {
-        "pointId": 518,
-        "investigationId": 75,
-        "experimentalTechniqueId": 7,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 13,
-        "result": "Ca, S, Fe, Br, Sr, K (Ti, As)",
-        "other": "black",
-        "createDate": "2025-06-20T10:27:27.210Z",
-        "modifiedDate": "2025-06-20T10:27:27.210Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 501,
-            "name": "Ms4093_21v_X_13_black",
-            "detail": "_",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_X_13_black.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-530",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Greenish/turquoise tonality\nPresence of As in the XRF maps\nIn the hyperspectral map appears as a thicker brushstroke",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Greenish/turquoise tonality\nPresence of As in the XRF maps\nIn the hyperspectral map appears as a thicker brushstroke",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 530",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #afff38",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Maya blue, addition of a yellow component (As-based)\nMin at 292 and 660-662 nm, max at 527 nm",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:28 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:42 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_R_01_blue - _merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_01_blue_merge.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 1
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-4,10,10"
         }
-      },
-      "custom": {
-        "pointId": 530,
-        "color": "#afff38",
-        "investigationId": 75,
-        "experimentalTechniqueId": 9,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 1,
-        "result": "Maya blue, addition of a yellow component (As-based)\nMin at 292 and 660-662 nm, max at 527 nm",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:28.086Z",
-        "modifiedDate": "2025-06-20T12:21:42.715Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 513,
-            "name": "Ms4093_21v_R_01_blue",
-            "detail": "_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_01_blue_merge.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-531",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Greenish/turquoise tonality\nPresence of As in the XRF maps\nIn the hyperspectral map appears as a thicker brushstroke",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Greenish/turquoise tonality\nPresence of As in the XRF maps\nIn the hyperspectral map appears as a thicker brushstroke",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 531",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #afff38",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 2",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Maya blue, addition of a yellow component (As-based)\nMin at 292 and 660-662 nm, max at 527 nm",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:28 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:42 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_R_02_blue - _merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_02_blue_merge.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 1
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-4,10,10"
         }
-      },
-      "custom": {
-        "pointId": 531,
-        "color": "#afff38",
-        "investigationId": 75,
-        "experimentalTechniqueId": 9,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 2,
-        "result": "Maya blue, addition of a yellow component (As-based)\nMin at 292 and 660-662 nm, max at 527 nm",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:28.138Z",
-        "modifiedDate": "2025-06-20T12:21:42.743Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 514,
-            "name": "Ms4093_21v_R_02_blue",
-            "detail": "_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_02_blue_merge.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-532",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "grainy blue, thick layer, possibly two different layers (underlayer similar to R_05?)\nWe need high magnifications images\n\nCompatible with MB standard synthesized using 1wt % of indigo heated at 130° C",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "grainy blue, thick layer, possibly two different layers (underlayer similar to R_05?)\nWe need high magnifications images\n\nCompatible with MB standard synthesized using 1wt % of indigo heated at 130° C",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 532",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #afff38",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 3",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Maya blue\nMin at 292 and 662 nm",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:28 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:42 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: bis - _-bis_merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_03_blue-bis_merge.txt"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_R_03_blue - _merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_03_blue_merge.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 532,
-        "color": "#afff38",
-        "investigationId": 75,
-        "experimentalTechniqueId": 9,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 3,
-        "result": "Maya blue\nMin at 292 and 662 nm",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:28.193Z",
-        "modifiedDate": "2025-06-20T12:21:42.756Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 516,
-            "name": "bis",
-            "detail": "_-bis_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_03_blue-bis_merge.txt"
-          },
-          {
-            "id": 515,
-            "name": "Ms4093_21v_R_03_blue",
-            "detail": "_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_03_blue_merge.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-533",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Greenish tonality, different from R_01 and R_02\nPresence of As in the XRF maps\nIn the hyperspectral map appears as a thicker brushstroke (check!)",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Greenish tonality, different from R_01 and R_02\nPresence of As in the XRF maps\nIn the hyperspectral map appears as a thicker brushstroke (check!)",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 533",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #afff38",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 4",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Maya blue, addition of a yellow component (As-based)\nMin at 290 and 660 nm, max at 510 nm",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: green",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:28 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:42 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: bis - _-bis_merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_04_green-bis_merge.txt"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_R_04_green - _merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_04_green_merge.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 533,
-        "color": "#afff38",
-        "investigationId": 75,
-        "experimentalTechniqueId": 9,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 4,
-        "result": "Maya blue, addition of a yellow component (As-based)\nMin at 290 and 660 nm, max at 510 nm",
-        "other": "green",
-        "createDate": "2025-06-20T10:27:28.283Z",
-        "modifiedDate": "2025-06-20T12:21:42.771Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 518,
-            "name": "bis",
-            "detail": "_-bis_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_04_green-bis_merge.txt"
-          },
-          {
-            "id": 517,
-            "name": "Ms4093_21v_R_04_green",
-            "detail": "_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_04_green_merge.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-534",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Tonality different from the 'proper' Maya blue R_03. There is no evidence of a yellow component but the tonality is slightly shifted towards the green. \nCompatible with MB standard synthesized using 1wt % of indigo heated at higher temperatures than 130° C",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Tonality different from the 'proper' Maya blue R_03. There is no evidence of a yellow component but the tonality is slightly shifted towards the green. \nCompatible with MB standard synthesized using 1wt % of indigo heated at higher temperatures than 130° C",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 534",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #afff38",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 5",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Maya blue\nMin at 292 and 662 nm",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: blue",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:28 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:42 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_R_05_blue - _merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_05_blue_merge.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 534,
-        "color": "#afff38",
-        "investigationId": 75,
-        "experimentalTechniqueId": 9,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 5,
-        "result": "Maya blue\nMin at 292 and 662 nm",
-        "other": "blue",
-        "createDate": "2025-06-20T10:27:28.376Z",
-        "modifiedDate": "2025-06-20T12:21:42.791Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 519,
-            "name": "Ms4093_21v_R_05_blue",
-            "detail": "_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_05_blue_merge.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-535",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "As showing up in the XRF spot/map analysis (Orpimnet identified by Raman anlysis in 2006)",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "As showing up in the XRF spot/map analysis (Orpimnet identified by Raman anlysis in 2006)",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 535",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #afff38",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 6",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Yellow pigment (orpiment as suggested by XRF and Raman analysis)\nInfl. at 507 nm",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: yellow",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:28 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:42 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_R_06_yellow - _merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_06_yellow_merge.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 535,
-        "color": "#afff38",
-        "investigationId": 75,
-        "experimentalTechniqueId": 9,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 6,
-        "result": "Yellow pigment (orpiment as suggested by XRF and Raman analysis)\nInfl. at 507 nm",
-        "other": "yellow",
-        "createDate": "2025-06-20T10:27:28.427Z",
-        "modifiedDate": "2025-06-20T12:21:42.805Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 520,
-            "name": "Ms4093_21v_R_06_yellow",
-            "detail": "_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_06_yellow_merge.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-536",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "R",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "R",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 536",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #afff38",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 7",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Insect-derived anthraquinone lake (i.e. cochineal lake)\nMin at 516 and 560 nm",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: red",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:28 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:42 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_R_07_red - _merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_07_red_merge.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 536,
-        "color": "#afff38",
-        "investigationId": 75,
-        "experimentalTechniqueId": 9,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 7,
-        "result": "Insect-derived anthraquinone lake (i.e. cochineal lake)\nMin at 516 and 560 nm",
-        "other": "red",
-        "createDate": "2025-06-20T10:27:28.481Z",
-        "modifiedDate": "2025-06-20T12:21:42.820Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 521,
-            "name": "Ms4093_21v_R_07_red",
-            "detail": "_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_07_red_merge.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-537",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "R",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "R",
+          "purpose": "tagging",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 537",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #afff38",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 8",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Insect-derived anthraquinone lake (i.e. cochineal lake)\nMin at 516 and 558 nm",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: red",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:28 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:42 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_R_08_red - _merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_08_red_merge.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 1,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-4,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 537,
-        "color": "#afff38",
-        "investigationId": 75,
-        "experimentalTechniqueId": 9,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 8,
-        "result": "Insect-derived anthraquinone lake (i.e. cochineal lake)\nMin at 516 and 558 nm",
-        "other": "red",
-        "createDate": "2025-06-20T10:27:28.539Z",
-        "modifiedDate": "2025-06-20T12:21:42.835Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 522,
-            "name": "Ms4093_21v_R_08_red",
-            "detail": "_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_08_red_merge.txt"
-          }
-        ]
       }
     },
     {
       "id": "https://digilab-mddm-fe/canvas/178/point-analysis/w3c-538",
       "type": "Annotation",
       "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Zn-based retouch\nLead and chromium showing up in the XRF spot/map analysis",
-        "format": "text/plain",
-        "language": "it"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Zn-based retouch\nLead and chromium showing up in the XRF spot/map analysis",
+          "purpose": "commenting",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Point ID: 538",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Color: #afff38",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Investigation ID: 75",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Experimental Technique ID: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Section ID: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Page: Ms4093_21v",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Number: 9",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Result: Zinc oxide, yellow pigment (most probably lead chromate as suggested by XRF analysis)\nInfl. at 380 and 515 nm",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Other: yellow",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Create Date: Fri Jun 20 2025 12:27:28 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified Date: Fri Jun 20 2025 14:21:42 GMT+0200 (Ora legale dell’Europa centrale)",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Created By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Modified By: 1",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Data: Ms4093_21v_R_09_yellow - _merge",
+          "purpose": "describing",
+          "format": "text/plain"
+        },
+        {
+          "type": "Video",
+          "id": "/media/Project_8/Ms4093_21v_R_09_yellow_merge.txt"
+        }
+      ],
       "target": {
         "source": "https://tommyaghs.github.io/img-container/canvas/BUB_Ms4093-6r",
         "selector": {
-          "type": "PointSelector",
-          "x": 0,
-          "y": 0
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-5,-5,10,10"
         }
-      },
-      "custom": {
-        "pointId": 538,
-        "color": "#afff38",
-        "investigationId": 75,
-        "experimentalTechniqueId": 9,
-        "sectionId": 1,
-        "page": "Ms4093_21v",
-        "number": 9,
-        "result": "Zinc oxide, yellow pigment (most probably lead chromate as suggested by XRF analysis)\nInfl. at 380 and 515 nm",
-        "other": "yellow",
-        "createDate": "2025-06-20T10:27:28.592Z",
-        "modifiedDate": "2025-06-20T12:21:42.850Z",
-        "createdBy": "1",
-        "modifiedBy": "1",
-        "annotationData": [
-          {
-            "id": 523,
-            "name": "Ms4093_21v_R_09_yellow",
-            "detail": "_merge",
-            "mediaUrl": "/media/Project_8/Ms4093_21v_R_09_yellow_merge.txt"
-          }
-        ]
       }
     }
   ]
