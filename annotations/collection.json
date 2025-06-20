@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://tommyaghs.github.io/img-container/annotations/bub-annotations", "https://tommyaghs.github.io/img-container/annotations/w3c-annotations.json", "https://tommyaghs.github.io/img-container/annotations/point-analyses-w3c-72-2025-06-20.json", "https://tommyaghs.github.io/img-container/annotations/point-analysestest.json" ],
+  "otherContent" : [ "https://tommyaghs.github.io/img-container/annotations/bub-annotations", "https://tommyaghs.github.io/img-container/annotations/w3c-annotations.json", "https://tommyaghs.github.io/img-container/annotations/point-analyses-w3c-72-2025-06-20.json" ],
   "@id" : "https://tommyaghs.github.io/img-container/annotations/collection.json",
   "label" : "All annotations loaded in tommyaghs/img-container project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
