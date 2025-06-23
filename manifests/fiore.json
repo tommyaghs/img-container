@@ -2,9 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://files.tetras-libre.fr/dev/sun-400x400-with-svg-target.json",
   "type": "Manifest",
-  "label": {
-    "en": ["Sun image"]
-  },
+  "label": { "en": ["Sun image"] },
   "items": [
     {
       "id": "https://files.tetras-libre.fr/dev/canvas/sun-400x400",
@@ -40,19 +38,13 @@
             {
               "id": "https://files.tetras-libre.fr/dev/annotation/sun-400x400-svg",
               "type": "Annotation",
-              "motivation": "commenting",
+              "motivation": "painting",
               "body": {
-                "type": "TextualBody",
-                "value": "White circle tag",
-                "format": "text/plain"
+                "type": "Image",
+                "format": "image/svg+xml",
+                "value": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>\n  <circle cx='200' cy='200' r='100' fill='white' stroke='black' stroke-width='5'/>\n</svg>"
               },
-              "target": {
-                "source": "https://files.tetras-libre.fr/dev/canvas/sun-400x400",
-                "selector": {
-                  "type": "SvgSelector",
-                  "value": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='100' fill='white'/></svg>"
-                }
-              }
+              "target": "https://files.tetras-libre.fr/dev/canvas/sun-400x400"
             }
           ]
         }
