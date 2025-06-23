@@ -1,67 +1,62 @@
 {
-  "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "id" : "https://tommyaghs.github.io/img-container/manifests/fiore.json",
-  "type" : "Manifest",
-  "label" : {
-    "en" : [ "Blank Manifest" ]
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://files.tetras-libre.fr/dev/sun-400x400-with-svg-target.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["Sun image"]
   },
-  "items" : [ {
-    "id" : "https://example.org/cx73fykrean-lz11zgro/canvas/fevpk5gi9y-lz11zm1o",
-    "type" : "Canvas",
-    "height" : 1718,
-    "width" : 2482,
-    "label" : {
-      "en" : [ "Untitled canvas" ]
-    },
-    "items" : [ {
-      "id" : "https://example.org/cx73fykrean-lz11zgro/canvas/fevpk5gi9y-lz11zm1o/annotation-page/g2x1ihnojlc-lz11zm1o",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://example.org/cx73fykrean-lz11zgro/annotation/eqg5z1atxp5-lz11zm1n",
-        "type" : "Annotation",
-        "motivation" : "painting",
-        "target" : "https://example.org/cx73fykrean-lz11zgro/canvas/fevpk5gi9y-lz11zm1o",
-        "body" : {
-          "id" : "https://tommyaghs.github.io/img-container/images/sss/full/max/0/default.jpg",
-          "type" : "Image",
-          "format" : "image/jpeg",
-          "height" : 1718,
-          "width" : 2482,
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 78,
-              "height" : 54
-            }, {
-              "width" : 156,
-              "height" : 108
-            }, {
-              "width" : 311,
-              "height" : 215
-            }, {
-              "width" : 621,
-              "height" : 430
-            }, {
-              "width" : 1241,
-              "height" : 859
-            }, {
-              "width" : 2482,
-              "height" : 1718
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 2482,
-            "@id" : "https://tommyaghs.github.io/img-container/images/sss",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 1718,
-            "id" : "https://tommyaghs.github.io/img-container/images/sss"
-          } ]
+  "items": [
+    {
+      "id": "https://files.tetras-libre.fr/dev/canvas/sun-400x400",
+      "type": "Canvas",
+      "width": 400,
+      "height": 400,
+      "items": [
+        {
+          "id": "https://files.tetras-libre.fr/dev/annotation_page/sun-400x400-image",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://files.tetras-libre.fr/dev/annotation/sun-400x400-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://files.tetras-libre.fr/dev/media/sun-400x400.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 400,
+                "height": 400
+              },
+              "target": "https://files.tetras-libre.fr/dev/canvas/sun-400x400"
+            }
+          ]
         }
-      } ]
-    } ]
-  } ]
+      ],
+      "annotations": [
+        {
+          "id": "https://files.tetras-libre.fr/dev/annotation_page/sun-400x400-svg",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://files.tetras-libre.fr/dev/annotation/sun-400x400-svg",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "value": "Red rectangle tag",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://files.tetras-libre.fr/dev/canvas/sun-400x400",
+                "selector": {
+                  "type": "SvgSelector",
+                   "value": "<svg height='100' width='100' xmlns='http://www.w3.org/2000/svg'><circle r='45' cx='50' cy='50' fill='red' /></svg>"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
