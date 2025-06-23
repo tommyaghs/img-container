@@ -1,50 +1,73 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://files.tetras-libre.fr/dev/sun-400x400-with-svg-target.json",
+  "id": "https://example.org/iiif/manifest/masaccio-colored-pin",
   "type": "Manifest",
-  "label": { "en": ["Sun image"] },
+  "label": { "en": ["Masaccio – Annotazione con Pin Rosso"] },
   "items": [
     {
-      "id": "https://files.tetras-libre.fr/dev/canvas/sun-400x400",
+      "id": "https://example.org/iiif/canvas/1",
       "type": "Canvas",
-      "width": 400,
-      "height": 400,
+      "width": 3024,
+      "height": 3885,
+      "label": { "en": ["Masaccio – Trinità"] },
       "items": [
         {
-          "id": "https://files.tetras-libre.fr/dev/annotation_page/sun-400x400-image",
+          "id": "https://example.org/iiif/page/1/painting",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://files.tetras-libre.fr/dev/annotation/sun-400x400-image",
+              "id": "https://example.org/iiif/annotation/painting/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://files.tetras-libre.fr/dev/media/sun-400x400.jpg",
+                "id": "https://raw.githubusercontent.com/asicuro/manifest-point-analysis/refs/heads/main/images/masaccio/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 400,
-                "height": 400
+                "width": 3024,
+                "height": 3885
               },
-              "target": "https://files.tetras-libre.fr/dev/canvas/sun-400x400"
+              "target": "https://example.org/iiif/canvas/1"
             }
           ]
         }
       ],
       "annotations": [
         {
-          "id": "https://files.tetras-libre.fr/dev/annotation_page/sun-400x400-svg",
+          "id": "https://example.org/iiif/page/1/annotations",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://files.tetras-libre.fr/dev/annotation/sun-400x400-svg",
+              "id": "https://example.org/iiif/annotation/comment/1",
               "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "type": "Image",
-                "format": "image/svg+xml",
-                "value": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>\n  <circle cx='200' cy='200' r='100' fill='white' stroke='black' stroke-width='5'/>\n</svg>"
-              },
-              "target": "https://files.tetras-libre.fr/dev/canvas/sun-400x400"
+              "motivation": "commenting",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Zn-based retouch\nLead and chromium showing up in the XRF spot/map analysis",
+                  "purpose": "commenting",
+                  "format": "text/plain"
+                },
+                {
+                  "type": "TextualBody",
+                  "value": "Point ID: 538",
+                  "purpose": "describing",
+                  "format": "text/plain"
+                },
+                {
+                  "type": "TextualBody",
+                  "value": "Color: #ff0000",
+                  "purpose": "describing",
+                  "format": "text/plain"
+                }
+              ],
+              "target": {
+                "source": "https://example.org/iiif/canvas/1",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=1490,890,20,20"
+                }
+              }
             }
           ]
         }
@@ -52,3 +75,4 @@
     }
   ]
 }
+
