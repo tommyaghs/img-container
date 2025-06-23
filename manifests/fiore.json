@@ -43,14 +43,15 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "Red rectangle tag",
+                "value": "White circle tag",
                 "format": "text/plain"
               },
               "target": {
                 "source": "https://files.tetras-libre.fr/dev/canvas/sun-400x400",
                 "selector": {
-                "type": "SvgSelector",
-                "value": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle r='45' cx='50' cy='50' fill='red' /></svg>"}
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='100' fill='white'/></svg>"
+                }
               }
             }
           ]
