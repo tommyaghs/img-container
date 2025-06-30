@@ -97,5 +97,12 @@
       "en" : [ "Enthroned Madonna and Child (1949.7.1)" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://tommyaghs.github.io/img-container/manifests/point-analyses-w3c-75-2025-06-20.json",
+    "label" : {
+      "it" : [ "Point Analyses: Spectroscopy su eee" ],
+      "en" : [ "Point Analyses: Spectroscopy on eee" ]
+    },
+    "type" : "Manifest"
   } ]
 }
