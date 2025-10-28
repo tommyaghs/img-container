@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 22
+  }, {
+    "width" : 64,
+    "height" : 43
+  }, {
+    "width" : 128,
+    "height" : 86
+  }, {
+    "width" : 256,
+    "height" : 171
+  }, {
+    "width" : 512,
+    "height" : 341
+  }, {
+    "width" : 1024,
+    "height" : 682
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1024,
+  "@id" : "https://tommyaghs.github.io/img-container/images/defaultim-fotor-20251028125538",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 682
+}
